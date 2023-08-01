@@ -1,7 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：1 天 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 476dfc73-38cf-4e4e-ba7a-16c76f9735a2, udp: true}
 - {name: 巴巴多斯节点上线！ - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 476dfc73-38cf-4e4e-ba7a-16c76f9735a2, udp: true}
 - {name: 🇮🇳 kk云_印度_移动 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 26657, type: ss, cipher: chacha20-ietf-poly1305, password: 476dfc73-38cf-4e4e-ba7a-16c76f9735a2, udp: true}
 - {name: 🇹🇷 kk云_土耳其_移动 t 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 22603, type: ss, cipher: chacha20-ietf-poly1305, password: 476dfc73-38cf-4e4e-ba7a-16c76f9735a2, udp: true}

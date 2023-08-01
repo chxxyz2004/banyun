@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇲🇴 kk云_澳门 1.5x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 476dfc73-38cf-4e4e-ba7a-16c76f9735a2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: molm.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: molm.mikuproxy.pro}}, udp: true}
