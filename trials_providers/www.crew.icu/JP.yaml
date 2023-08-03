@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本1 - 湊 あくあのCrew, server: js.xzyunjiasu.icu, port: 25967, type: ss, cipher: chacha20-ietf-poly1305, password: e402ebd8-6910-47c7-b2d5-90e1c4269a44, udp: true}
-- {name: 🇯🇵 日本2 - 湊 あくあのCrew, server: sd.xzyunjiasu.icu, port: 11667, type: ss, cipher: chacha20-ietf-poly1305, password: e402ebd8-6910-47c7-b2d5-90e1c4269a44, udp: true}
-- {name: 🇯🇵 日本3 - 湊 あくあのCrew, server: sd.xzyunjiasu.icu, port: 25967, type: ss, cipher: chacha20-ietf-poly1305, password: e402ebd8-6910-47c7-b2d5-90e1c4269a44, udp: true}
+- {name: 🇯🇵 日本1 - 湊 あくあのCrew, server: js.xzyunjiasu.icu, port: 25967, type: ss, cipher: chacha20-ietf-poly1305, password: 12f331a8-b32d-4d5c-b47f-f8c3642f382f, udp: true}
+- {name: 🇯🇵 日本2 - 湊 あくあのCrew, server: sd.xzyunjiasu.icu, port: 11667, type: ss, cipher: chacha20-ietf-poly1305, password: 12f331a8-b32d-4d5c-b47f-f8c3642f382f, udp: true}
+- {name: 🇯🇵 日本3 - 湊 あくあのCrew, server: sd.xzyunjiasu.icu, port: 25967, type: ss, cipher: chacha20-ietf-poly1305, password: 12f331a8-b32d-4d5c-b47f-f8c3642f382f, udp: true}
