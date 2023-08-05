@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 | YouTube免广告 | Tiktok  | 隧道 | 1X |  - 西瓜皮是真的皮, server: suidao3.vipxgyun.com, port: 17518, type: vmess, uuid: 6f76eb78-7a6f-331a-963b-e199934866cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao3.vipxgyun.com}}, udp: true}
+- {name: 🇹🇼 台湾 | YouTube免广告 | Tiktok  | 隧道 | 1X |  - 西瓜皮是真的皮, server: suidao3.vipxgyun.com, port: 17518, type: vmess, uuid: c26c8221-3529-3a8b-b700-c688be7630f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao3.vipxgyun.com}}, udp: true}
