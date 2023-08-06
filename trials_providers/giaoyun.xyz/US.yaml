@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国2 - giao云, server: 730us.ljydw.top, port: 443, type: trojan, password: a444d469-0322-41d3-89a7-9d91cd2b01ca, sni: 730us.ljydw.top, skip-cert-verify: true, udp: true}
