@@ -88,7 +88,8 @@ proxies:
 - {name: 🇰🇷 韩国 02 - V2Link, server: host-027.crazyspeed.xyz, port: 21007, type: ss, cipher: chacha20-ietf-poly1305, password: 991b2e63-1425-417c-a024-5c5666aa1b0c, udp: true}
 - {name: 🇻🇳 越南 - V2Link, server: host-029.crazyspeed.xyz, port: 21009, type: ss, cipher: chacha20-ietf-poly1305, password: 991b2e63-1425-417c-a024-5c5666aa1b0c, udp: true}
 - {name: 🇹🇭 泰国 - V2Link, server: host-030.crazyspeed.xyz, port: 21010, type: ss, cipher: chacha20-ietf-poly1305, password: 991b2e63-1425-417c-a024-5c5666aa1b0c, udp: true}
-- {name: 🇨🇦 加拿大 - V2Link, server: host-041.crazyspeed.xyz, port: 16015, type: ss, cipher: chacha20-ietf-poly1305, password: 991b2e63-1425-417c-a024-5c5666aa1b0c, udp: true}
+- {name: 🇨🇦 加拿大 01 - V2Link, server: host-041.crazyspeed.xyz, port: 16015, type: ss, cipher: chacha20-ietf-poly1305, password: 991b2e63-1425-417c-a024-5c5666aa1b0c, udp: true}
+- {name: 🇨🇦 加拿大 Netflix - V2Link, server: host-042.crazyspeed.xyz, port: 16016, type: ss, cipher: chacha20-ietf-poly1305, password: 991b2e63-1425-417c-a024-5c5666aa1b0c, udp: true}
 - {name: 🇬🇧 英国 - V2Link, server: host-043.crazyspeed.xyz, port: 34401, type: ss, cipher: chacha20-ietf-poly1305, password: 991b2e63-1425-417c-a024-5c5666aa1b0c, udp: true}
 - {name: 🇩🇪 德国 - V2Link, server: host-045.crazyspeed.xyz, port: 34901, type: ss, cipher: chacha20-ietf-poly1305, password: 991b2e63-1425-417c-a024-5c5666aa1b0c, udp: true}
 - {name: 🇫🇷 法国 - V2Link, server: host-047.crazyspeed.xyz, port: 34903, type: ss, cipher: chacha20-ietf-poly1305, password: 991b2e63-1425-417c-a024-5c5666aa1b0c, udp: true}
@@ -106,7 +107,7 @@ proxies:
 - {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 11215, type: trojan, password: 0aee7859-0d1f-3eaf-9abf-bb0fe21b68cc, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 45168, type: trojan, password: 0aee7859-0d1f-3eaf-9abf-bb0fe21b68cc, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 50355, type: trojan, password: 0aee7859-0d1f-3eaf-9abf-bb0fe21b68cc, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: e77b580f-8231-458b-97ef-7afa6e9c8418, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: c124290a-97c3-45fb-b7f0-5d65e767a8bf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 vip1 越南-01 - FastFly, server: gzdx.jcnode.top, port: 39191, type: trojan, password: adf3a92e-bafc-4da1-bc41-f29dc59ce89e, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 vip1 越南-01_1 - FastFly, server: gzdx01.jcnode.top, port: 43686, type: trojan, password: adf3a92e-bafc-4da1-bc41-f29dc59ce89e, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 vip1 越南-02 - FastFly, server: gzyd.jcnode.top, port: 47020, type: trojan, password: adf3a92e-bafc-4da1-bc41-f29dc59ce89e, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
