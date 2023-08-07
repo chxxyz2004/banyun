@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 kk云_台湾家宽_移动 t 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 12044, type: ss, cipher: chacha20-ietf-poly1305, password: 818169a1-423b-40c4-be42-138ca2c91be0, udp: true}
-- {name: 🇹🇼 kk云_台湾家宽_联通 t 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 10239, type: ss, cipher: chacha20-ietf-poly1305, password: 818169a1-423b-40c4-be42-138ca2c91be0, udp: true}
-- {name: 🇹🇼 kk云_台湾家宽_电信 t 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 12045, type: ss, cipher: chacha20-ietf-poly1305, password: 818169a1-423b-40c4-be42-138ca2c91be0, udp: true}
-- {name: 🇹🇼 kk云_深台专线iepl_10x - Kako Cloud, server: iplc.node2.kk-proxy.pro, port: 35897, type: ss, cipher: chacha20-ietf-poly1305, password: 818169a1-423b-40c4-be42-138ca2c91be0, udp: true}
-- {name: 🇹🇼 kk云_唯云莞台iplc 15x - Kako Cloud, server: iplc.node.kk-proxy.pro, port: 11308, type: ss, cipher: chacha20-ietf-poly1305, password: 818169a1-423b-40c4-be42-138ca2c91be0, udp: true}
+- {name: 🇹🇼 kk云_台湾家宽_移动 t 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 12044, type: ss, cipher: chacha20-ietf-poly1305, password: 1d932449-ee3b-4e23-a3e4-daafc3005171, udp: true}
+- {name: 🇹🇼 kk云_台湾家宽_联通 t 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 10239, type: ss, cipher: chacha20-ietf-poly1305, password: 1d932449-ee3b-4e23-a3e4-daafc3005171, udp: true}
+- {name: 🇹🇼 kk云_台湾家宽_电信 t 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 12045, type: ss, cipher: chacha20-ietf-poly1305, password: 1d932449-ee3b-4e23-a3e4-daafc3005171, udp: true}
+- {name: 🇹🇼 kk云_深台专线iepl_10x - Kako Cloud, server: iplc.node2.kk-proxy.pro, port: 35897, type: ss, cipher: chacha20-ietf-poly1305, password: 1d932449-ee3b-4e23-a3e4-daafc3005171, udp: true}
+- {name: 🇹🇼 kk云_唯云莞台iplc 15x - Kako Cloud, server: iplc.node.kk-proxy.pro, port: 11308, type: ss, cipher: chacha20-ietf-poly1305, password: 1d932449-ee3b-4e23-a3e4-daafc3005171, udp: true}
