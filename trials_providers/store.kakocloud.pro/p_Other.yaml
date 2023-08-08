@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 移动联通入口受到攻击，请使用电信或专线线路。 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: cc3d3cb3-b6e6-4e56-b944-63fa678db215, udp: true}
