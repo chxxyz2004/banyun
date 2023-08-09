@@ -1,13 +1,13 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🌞🌞网址：www.qqcryxr.com - 探索者, server: 603diya.donghui.tech, port: 34638, type: vmess, uuid: 0156d72e-b6ee-4f30-bab6-a8a7f2a9d57c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 🌞🌞网址：www.qqcryxr.top - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: 0156d72e-b6ee-4f30-bab6-a8a7f2a9d57c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 🌞🌞网址：www.qqcryxr.xyz - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: 0156d72e-b6ee-4f30-bab6-a8a7f2a9d57c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🌞🌞网址：www.qqcryxr.com - 探索者, server: 603diya.donghui.tech, port: 34638, type: vmess, uuid: a0b97ea9-7445-4ba2-a2e6-50aad541c36e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🌞🌞网址：www.qqcryxr.top - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: a0b97ea9-7445-4ba2-a2e6-50aad541c36e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🌞🌞网址：www.qqcryxr.xyz - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: a0b97ea9-7445-4ba2-a2e6-50aad541c36e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: 官网网址：qhcy.cc  qhcy.me - 青花瓷云qhcy.cc, server: 8.8.8.8, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 268270ae-16cb-4b8a-b677-3569da2bf36d, udp: true}
 - {name: 官方TG售后讨论频道：https://t.me/Qhcygfpd - 青花瓷云qhcy.cc, server: 8.8.8.8, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 268270ae-16cb-4b8a-b677-3569da2bf36d, udp: true}
-- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: a002cb4f-453b-3099-a3ea-04bdec8db73f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: a002cb4f-453b-3099-a3ea-04bdec8db73f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 745b3d73-8c4e-3013-8321-4ce3565c1ac8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 745b3d73-8c4e-3013-8321-4ce3565c1ac8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 新网址：sockboom.link - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
 - {name: 导航网址：https://proxyvip.github.io - Proxyvip, server: hk-01.v1vip.top, port: 31001, type: trojan, password: d77f2d96-ab58-43d9-b8dd-e0b6059a79ac, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：20 天 - 老猫云, server: cn1.laomao2.xyz, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
@@ -16,5 +16,5 @@ proxies:
 - {name: 距离下次重置剩余：22 天 - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: 20843cdb-52e8-4541-a099-91f8d98f27b7, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: 20843cdb-52e8-4541-a099-91f8d98f27b7, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：23 天 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, type: vmess, uuid: daa0c525-9b3f-42a6-9d4b-fbf487a43f26, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
-- {name: 距离下次重置剩余：22 天 - FastFly, server: gzdx.jcnode.top, port: 29482, type: trojan, password: 7557209c-0e36-4b81-8823-4b3542c2ce9c, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 29482, type: trojan, password: 7557209c-0e36-4b81-8823-4b3542c2ce9c, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：22 天 - FastFly, server: gzdx.jcnode.top, port: 29482, type: trojan, password: 6cab5e62-088d-4269-a711-e3e9df371bc2, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 29482, type: trojan, password: 6cab5e62-088d-4269-a711-e3e9df371bc2, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}

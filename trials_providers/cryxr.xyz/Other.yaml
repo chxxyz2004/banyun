@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🌞🌞网址：www.qqcryxr.com - 探索者, server: 603diya.donghui.tech, port: 34638, type: vmess, uuid: 0156d72e-b6ee-4f30-bab6-a8a7f2a9d57c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 🌞🌞网址：www.qqcryxr.top - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: 0156d72e-b6ee-4f30-bab6-a8a7f2a9d57c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 🌞🌞网址：www.qqcryxr.xyz - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: 0156d72e-b6ee-4f30-bab6-a8a7f2a9d57c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🌞🌞网址：www.qqcryxr.com - 探索者, server: 603diya.donghui.tech, port: 34638, type: vmess, uuid: a0b97ea9-7445-4ba2-a2e6-50aad541c36e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🌞🌞网址：www.qqcryxr.top - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: a0b97ea9-7445-4ba2-a2e6-50aad541c36e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🌞🌞网址：www.qqcryxr.xyz - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: a0b97ea9-7445-4ba2-a2e6-50aad541c36e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
