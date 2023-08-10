@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国01 - Cfcloud, server: llp-shct.acgyt.com, port: 47400, type: ss, cipher: aes-256-gcm, password: 04903ae8-9dd0-48c3-8efa-51a6cd8dbc1a, udp: true}
-- {name: 🇺🇸 美国02 - Cfcloud, server: gzdx.acgyt.com, port: 47400, type: ss, cipher: aes-256-gcm, password: 04903ae8-9dd0-48c3-8efa-51a6cd8dbc1a, udp: true}
