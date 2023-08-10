@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 kk云_新加坡_移动 t 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 30982, type: ss, cipher: chacha20-ietf-poly1305, password: f60ccfaf-2e0f-4597-8b63-f7b409a82229, udp: true}
-- {name: 🇸🇬 kk云_新加坡_联通 t 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 31652, type: ss, cipher: chacha20-ietf-poly1305, password: f60ccfaf-2e0f-4597-8b63-f7b409a82229, udp: true}
-- {name: 🇸🇬 kk云_新加坡_电信 t 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 30983, type: ss, cipher: chacha20-ietf-poly1305, password: f60ccfaf-2e0f-4597-8b63-f7b409a82229, udp: true}
-- {name: 🇸🇬 kk云_新加坡 公益 0.025x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: f60ccfaf-2e0f-4597-8b63-f7b409a82229, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgcheap.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgcheap.mikuproxy.pro}}, udp: true}
+- {name: 🇸🇬 kk云_新加坡_移动 t 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 30982, type: ss, cipher: chacha20-ietf-poly1305, password: 532964be-56db-4395-93d6-625eceb2c5be, udp: true}
+- {name: 🇸🇬 kk云_新加坡_联通 t 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 31652, type: ss, cipher: chacha20-ietf-poly1305, password: 532964be-56db-4395-93d6-625eceb2c5be, udp: true}
+- {name: 🇸🇬 kk云_新加坡_电信 t 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 30983, type: ss, cipher: chacha20-ietf-poly1305, password: 532964be-56db-4395-93d6-625eceb2c5be, udp: true}
+- {name: 🇸🇬 kk云_新加坡 公益 0.025x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 532964be-56db-4395-93d6-625eceb2c5be, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgcheap.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgcheap.mikuproxy.pro}}, udp: true}
