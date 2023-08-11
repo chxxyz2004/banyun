@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰香港-中转A - 青花瓷云qhcy.cc, server: bwcko7z.olb8qsg.top, port: 37389, type: vmess, uuid: 268270ae-16cb-4b8a-b677-3569da2bf36d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港-中转B - 青花瓷云qhcy.cc, server: bwcko7z.olb8qsg.top, port: 47681, type: ss, cipher: aes-128-gcm, password: 268270ae-16cb-4b8a-b677-3569da2bf36d, udp: true}
-- {name: 🇭🇰香港-中转C - 青花瓷云qhcy.cc, server: bwcko7z.olb8qsg.top, port: 26921, type: ss, cipher: chacha20-ietf-poly1305, password: 268270ae-16cb-4b8a-b677-3569da2bf36d, udp: true}
+- {name: 🇭🇰香港-中转A - 青花瓷云qhcy.cc, server: bwcko7z.olb8qsg.top, port: 37388, type: vmess, uuid: 268270ae-16cb-4b8a-b677-3569da2bf36d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港-中转B - 青花瓷云qhcy.cc, server: bwcko7z.olb8qsg.top, port: 47680, type: ss, cipher: aes-128-gcm, password: 268270ae-16cb-4b8a-b677-3569da2bf36d, udp: true}
+- {name: 🇭🇰香港-中转C - 青花瓷云qhcy.cc, server: bwcko7z.olb8qsg.top, port: 26920, type: ss, cipher: chacha20-ietf-poly1305, password: 268270ae-16cb-4b8a-b677-3569da2bf36d, udp: true}
 - {name: 🇭🇰香港-中转D - 青花瓷云qhcy.cc, server: bwcko7z.olb8qsg.top, port: 37286, type: ss, cipher: chacha20-ietf-poly1305, password: 268270ae-16cb-4b8a-b677-3569da2bf36d, udp: true}
 - {name: 🇹🇼 🇨🇳台湾IPV6-直连 - 青花瓷云qhcy.cc, server: twv6.q5wrff7jtkdg23.top, port: 13058, type: vmess, uuid: 268270ae-16cb-4b8a-b677-3569da2bf36d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇲🇴 澳门IPv6-直连 - 青花瓷云qhcy.cc, server: mo1.q5wrff7jtkdg23.top, port: 11357, type: vmess, uuid: 268270ae-16cb-4b8a-b677-3569da2bf36d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
