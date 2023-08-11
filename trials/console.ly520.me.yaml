@@ -30,7 +30,7 @@ proxy-groups:
   - 🇯🇵 日本-01 | 2X - 凌云网络
   - 🇯🇵 日本-02 | 2X - 凌云网络
   - 🇯🇵 日本-03 | 2X - 凌云网络
-  - 🇺🇸 美国-01 | 1.3X - 凌云网络
+  - 🇯🇵 日本-04 | 2X - 凌云网络
   - 🇺🇸 美国-01 | 2X - 凌云网络
   - 🇺🇸 美国-03 | 2X - 凌云网络
   - 凌云网络 www.ly520.me - 凌云网络
@@ -88,13 +88,13 @@ proxy-groups:
   - 🇯🇵 日本-01 | 2X - 凌云网络
   - 🇯🇵 日本-02 | 2X - 凌云网络
   - 🇯🇵 日本-03 | 2X - 凌云网络
+  - 🇯🇵 日本-04 | 2X - 凌云网络
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id004
-  - 🇺🇸 美国-01 | 1.3X - 凌云网络
   - 🇺🇸 美国-01 | 2X - 凌云网络
   - 🇺🇸 美国-03 | 2X - 凌云网络
 - name: 🎏 ‍其他
@@ -120,14 +120,14 @@ proxy-groups:
   type: select
   proxies: *id005
 proxies:
-- {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: 30603831-6699-4e5c-8d52-2ad00c0bed87, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-01 | 2X - 凌云网络, server: 58.242.130.102, port: 36028, type: vmess, uuid: 30603831-6699-4e5c-8d52-2ad00c0bed87, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-02 | 2X - 凌云网络, server: 58.242.130.102, port: 36020, type: vmess, uuid: 30603831-6699-4e5c-8d52-2ad00c0bed87, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-03 | 2X - 凌云网络, server: 58.242.130.102, port: 36021, type: vmess, uuid: 30603831-6699-4e5c-8d52-2ad00c0bed87, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: 58.242.130.102, port: 26025, type: vmess, uuid: 30603831-6699-4e5c-8d52-2ad00c0bed87, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-01 | 1.3X - 凌云网络, server: us-01.ly520.me, port: 50001, type: vmess, uuid: 30603831-6699-4e5c-8d52-2ad00c0bed87, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-01 | 2X - 凌云网络, server: 58.242.130.102, port: 26033, type: vmess, uuid: 30603831-6699-4e5c-8d52-2ad00c0bed87, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-03 | 2X - 凌云网络, server: 58.242.130.102, port: 26035, type: vmess, uuid: 30603831-6699-4e5c-8d52-2ad00c0bed87, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: 13a771e8-cc88-4fa5-b123-342c6f38f713, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-01 | 2X - 凌云网络, server: js1.76po.com, port: 13526, type: vmess, uuid: 13a771e8-cc88-4fa5-b123-342c6f38f713, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-02 | 2X - 凌云网络, server: js1.76po.com, port: 42737, type: vmess, uuid: 13a771e8-cc88-4fa5-b123-342c6f38f713, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-03 | 2X - 凌云网络, server: js1.76po.com, port: 44639, type: vmess, uuid: 13a771e8-cc88-4fa5-b123-342c6f38f713, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-04 | 2X - 凌云网络, server: js1.76po.com, port: 51238, type: vmess, uuid: 13a771e8-cc88-4fa5-b123-342c6f38f713, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: js1.76po.com, port: 26480, type: vmess, uuid: 13a771e8-cc88-4fa5-b123-342c6f38f713, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-01 | 2X - 凌云网络, server: 1.76po.com, port: 16325, type: vmess, uuid: 13a771e8-cc88-4fa5-b123-342c6f38f713, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-03 | 2X - 凌云网络, server: 1.76po.com, port: 15014, type: vmess, uuid: 13a771e8-cc88-4fa5-b123-342c6f38f713, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
