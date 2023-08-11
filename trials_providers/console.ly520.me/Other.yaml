@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: 6214cfbf-7ba6-4f3d-9902-563bdc335a63, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: 30603831-6699-4e5c-8d52-2ad00c0bed87, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
