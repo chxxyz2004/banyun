@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 日本A🇯🇵 - 探索者, server: 603diya.donghui.tech, port: 34650, type: vmess, uuid: 60033a72-f96e-4578-bc2c-0cde2f100d8e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 日本B🇯🇵 - 探索者, server: 603diya.donghui.tech, port: 34635, type: vmess, uuid: 60033a72-f96e-4578-bc2c-0cde2f100d8e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: VIP｜日本004🇯🇵—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32339, type: vmess, uuid: 60033a72-f96e-4578-bc2c-0cde2f100d8e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 极速｜日本006🇯🇵—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32335, type: vmess, uuid: 60033a72-f96e-4578-bc2c-0cde2f100d8e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 日本A🇯🇵 - 探索者, server: 603diya.donghui.tech, port: 34650, type: vmess, uuid: 430555c4-de1c-4543-957e-d17eb9324e11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 日本B🇯🇵 - 探索者, server: 603diya.donghui.tech, port: 34635, type: vmess, uuid: 430555c4-de1c-4543-957e-d17eb9324e11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: VIP｜日本004🇯🇵—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32339, type: vmess, uuid: 430555c4-de1c-4543-957e-d17eb9324e11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 极速｜日本006🇯🇵—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32335, type: vmess, uuid: 430555c4-de1c-4543-957e-d17eb9324e11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
