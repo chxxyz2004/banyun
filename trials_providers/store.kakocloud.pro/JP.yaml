@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 kk云_日本_移动 t 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 31657, type: ss, cipher: chacha20-ietf-poly1305, password: 9953b34e-f146-461f-8aae-968a80e2bf03, udp: true}
-- {name: 🇯🇵 kk云_日本_联通 t 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 13677, type: ss, cipher: chacha20-ietf-poly1305, password: 9953b34e-f146-461f-8aae-968a80e2bf03, udp: true}
-- {name: 🇯🇵 kk云_日本_电信 t 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 31659, type: ss, cipher: chacha20-ietf-poly1305, password: 9953b34e-f146-461f-8aae-968a80e2bf03, udp: true}
+- {name: 🇯🇵 kk云_日本_移动 t 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 31657, type: ss, cipher: chacha20-ietf-poly1305, password: 05685520-600b-49d7-a348-9cc3f946d9e8, udp: true}
+- {name: 🇯🇵 kk云_日本_联通 t 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 13677, type: ss, cipher: chacha20-ietf-poly1305, password: 05685520-600b-49d7-a348-9cc3f946d9e8, udp: true}
+- {name: 🇯🇵 kk云_日本_电信 t 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 31659, type: ss, cipher: chacha20-ietf-poly1305, password: 05685520-600b-49d7-a348-9cc3f946d9e8, udp: true}
