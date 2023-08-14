@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港1 - giao云, server: 720hk1.ljydw.top, port: 443, client-fingerprint: chrome, type: trojan, password: d7d7996a-36c6-4a1d-9246-7aed879aea13, tfo: false, sni: 720hk1.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港2 - giao云, server: 720hk2.ljydw.top, port: 443, client-fingerprint: chrome, type: trojan, password: d7d7996a-36c6-4a1d-9246-7aed879aea13, tfo: false, sni: 720hk2.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港3 - giao云, server: 720hk3.ljydw.top, port: 443, client-fingerprint: chrome, type: trojan, password: d7d7996a-36c6-4a1d-9246-7aed879aea13, tfo: false, sni: 720hk3.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1 - giao云, server: 720hk1.ljydw.top, port: 443, type: trojan, password: 4b180a38-1dd2-4e4a-8f37-6af2e4321ad2, sni: 720hk1.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2 - giao云, server: 720hk2.ljydw.top, port: 443, type: trojan, password: 4b180a38-1dd2-4e4a-8f37-6af2e4321ad2, sni: 720hk2.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港3 - giao云, server: 720hk3.ljydw.top, port: 443, type: trojan, password: 4b180a38-1dd2-4e4a-8f37-6af2e4321ad2, sni: 720hk3.ljydw.top, skip-cert-verify: true, udp: true}
