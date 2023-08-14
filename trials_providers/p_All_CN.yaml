@@ -2,4 +2,4 @@
 ---
 proxies:
 - {name: 🇲🇴 澳门IPv6-直连 - 青花瓷云qhcy.cc, server: mo1.q5wrff7jtkdg23.top, port: 11357, type: vmess, uuid: 268270ae-16cb-4b8a-b677-3569da2bf36d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇲🇴 澳门 1.7x - Kako Cloud, server: others.proxy.kk-proxy.pro, port: 22165, type: vmess, uuid: bab614aa-36ea-4e42-ad7a-686e93d5d935, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: molm.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: molm.mikuproxy.pro}}, udp: true}
+- {name: 🇲🇴 澳门 1.7x - Kako Cloud, server: others.proxy.kk-proxy.pro, port: 22165, type: vmess, uuid: 37b9f3c5-dbc2-40fc-8d9a-1f784f55b1ba, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: molm.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: molm.mikuproxy.pro}}, udp: true}
