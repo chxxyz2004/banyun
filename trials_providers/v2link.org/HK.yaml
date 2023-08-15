@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 01 - V2Link, server: host-001.crazyspeed.xyz, port: 30501, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: b0d45ef8-bb2e-468e-8630-9ec6993533ad, tfo: false, udp: true}
-- {name: 🇭🇰 香港 02 - V2Link, server: host-002.crazyspeed.xyz, port: 30502, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: b0d45ef8-bb2e-468e-8630-9ec6993533ad, tfo: false, udp: true}
-- {name: 🇭🇰 香港 03 - V2Link, server: host-003.crazyspeed.xyz, port: 30503, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: b0d45ef8-bb2e-468e-8630-9ec6993533ad, tfo: false, udp: true}
-- {name: 🇭🇰 香港 04 - V2Link, server: host-004.crazyspeed.xyz, port: 30504, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: b0d45ef8-bb2e-468e-8630-9ec6993533ad, tfo: false, udp: true}
-- {name: 🇭🇰 香港 05 - V2Link, server: host-005.crazyspeed.xyz, port: 30505, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: b0d45ef8-bb2e-468e-8630-9ec6993533ad, tfo: false, udp: true}
-- {name: 🇭🇰 香港 06 - V2Link, server: host-006.crazyspeed.xyz, port: 30506, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: b0d45ef8-bb2e-468e-8630-9ec6993533ad, tfo: false, udp: true}
+- {name: 🇭🇰 香港 01 - V2Link, server: host-001.crazyspeed.xyz, port: 30501, type: ss, cipher: chacha20-ietf-poly1305, password: b0d45ef8-bb2e-468e-8630-9ec6993533ad, udp: true}
+- {name: 🇭🇰 香港 02 - V2Link, server: host-002.crazyspeed.xyz, port: 30502, type: ss, cipher: chacha20-ietf-poly1305, password: b0d45ef8-bb2e-468e-8630-9ec6993533ad, udp: true}
+- {name: 🇭🇰 香港 03 - V2Link, server: host-003.crazyspeed.xyz, port: 30503, type: ss, cipher: chacha20-ietf-poly1305, password: b0d45ef8-bb2e-468e-8630-9ec6993533ad, udp: true}
+- {name: 🇭🇰 香港 04 - V2Link, server: host-004.crazyspeed.xyz, port: 30504, type: ss, cipher: chacha20-ietf-poly1305, password: b0d45ef8-bb2e-468e-8630-9ec6993533ad, udp: true}
+- {name: 🇭🇰 香港 05 - V2Link, server: host-005.crazyspeed.xyz, port: 30505, type: ss, cipher: chacha20-ietf-poly1305, password: b0d45ef8-bb2e-468e-8630-9ec6993533ad, udp: true}
+- {name: 🇭🇰 香港 06 - V2Link, server: host-006.crazyspeed.xyz, port: 30506, type: ss, cipher: chacha20-ietf-poly1305, password: b0d45ef8-bb2e-468e-8630-9ec6993533ad, udp: true}
