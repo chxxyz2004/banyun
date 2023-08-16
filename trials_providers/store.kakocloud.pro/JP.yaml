@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 31657, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 48505fda-2aeb-45a2-9229-028451177bd1, tfo: false, udp: true}
-- {name: 🇯🇵 日本 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 13677, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 48505fda-2aeb-45a2-9229-028451177bd1, tfo: false, udp: true}
-- {name: 🇯🇵 日本 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 31659, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 48505fda-2aeb-45a2-9229-028451177bd1, tfo: false, udp: true}
+- {name: 🇯🇵 日本 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 31657, type: ss, cipher: chacha20-ietf-poly1305, password: 57cf08d1-5e2a-4ffb-9933-eb8d35851ebd, udp: true}
+- {name: 🇯🇵 日本 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 13677, type: ss, cipher: chacha20-ietf-poly1305, password: 57cf08d1-5e2a-4ffb-9933-eb8d35851ebd, udp: true}
+- {name: 🇯🇵 日本 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 31659, type: ss, cipher: chacha20-ietf-poly1305, password: 57cf08d1-5e2a-4ffb-9933-eb8d35851ebd, udp: true}

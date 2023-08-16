@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 - giao云, server: 815hk1.ljydw.top, port: 443, client-fingerprint: chrome, type: trojan, password: 2c0defa0-0f68-432e-bbbd-f4e068fe3168, tfo: false, sni: 815hk1.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港0 - giao云, server: 815hk2.ljydw.top, port: 443, client-fingerprint: chrome, type: trojan, password: 2c0defa0-0f68-432e-bbbd-f4e068fe3168, tfo: false, sni: 815hk2.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港1 - giao云, server: 720hk1.ljydw.top, port: 443, client-fingerprint: chrome, type: trojan, password: 2c0defa0-0f68-432e-bbbd-f4e068fe3168, tfo: false, sni: 720hk1.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港2 - giao云, server: 720hk2.ljydw.top, port: 443, client-fingerprint: chrome, type: trojan, password: 2c0defa0-0f68-432e-bbbd-f4e068fe3168, tfo: false, sni: 720hk2.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港3 - giao云, server: 720hk3.ljydw.top, port: 443, client-fingerprint: chrome, type: trojan, password: 2c0defa0-0f68-432e-bbbd-f4e068fe3168, tfo: false, sni: 720hk3.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 - giao云, server: 815hk1.ljydw.top, port: 443, type: trojan, password: eb8b5147-414b-4b02-96f5-75fd76149bb6, sni: 815hk1.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港0 - giao云, server: 815hk2.ljydw.top, port: 443, type: trojan, password: eb8b5147-414b-4b02-96f5-75fd76149bb6, sni: 815hk2.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1 - giao云, server: 720hk1.ljydw.top, port: 443, type: trojan, password: eb8b5147-414b-4b02-96f5-75fd76149bb6, sni: 720hk1.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2 - giao云, server: 720hk2.ljydw.top, port: 443, type: trojan, password: eb8b5147-414b-4b02-96f5-75fd76149bb6, sni: 720hk2.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港3 - giao云, server: 720hk3.ljydw.top, port: 443, type: trojan, password: eb8b5147-414b-4b02-96f5-75fd76149bb6, sni: 720hk3.ljydw.top, skip-cert-verify: true, udp: true}
