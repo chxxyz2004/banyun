@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 26998, type: ss, cipher: chacha20-ietf-poly1305, password: 332f8757-9670-472f-990f-363e9df30a9f, udp: true}
-- {name: 🇺🇸 美国 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 46255, type: ss, cipher: chacha20-ietf-poly1305, password: 332f8757-9670-472f-990f-363e9df30a9f, udp: true}
-- {name: 🇺🇸 美国 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 26999, type: ss, cipher: chacha20-ietf-poly1305, password: 332f8757-9670-472f-990f-363e9df30a9f, udp: true}
-- {name: 🇺🇸 美国 0.025x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 332f8757-9670-472f-990f-363e9df30a9f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: uscheap.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: uscheap.mikuproxy.pro}}, udp: true}
-- {name: 🇺🇸 美国 0x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 332f8757-9670-472f-990f-363e9df30a9f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usfree.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: usfree.mikuproxy.pro}}, udp: true}
+- {name: 🇺🇸 美国 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 26998, type: ss, cipher: chacha20-ietf-poly1305, password: d2368979-0a62-4f9e-971b-be8faae5b967, udp: true}
+- {name: 🇺🇸 美国 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 46255, type: ss, cipher: chacha20-ietf-poly1305, password: d2368979-0a62-4f9e-971b-be8faae5b967, udp: true}
+- {name: 🇺🇸 美国 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 26999, type: ss, cipher: chacha20-ietf-poly1305, password: d2368979-0a62-4f9e-971b-be8faae5b967, udp: true}
+- {name: 🇺🇸 美国 0.025x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: d2368979-0a62-4f9e-971b-be8faae5b967, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: uscheap.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: uscheap.mikuproxy.pro}}, udp: true}
+- {name: 🇺🇸 美国 0x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: d2368979-0a62-4f9e-971b-be8faae5b967, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usfree.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: usfree.mikuproxy.pro}}, udp: true}
