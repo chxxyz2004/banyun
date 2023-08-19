@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 HKT｜隧道 02 - 爱猫论坛, server: 120.195.181.54, port: 36010, client-fingerprint: chrome, type: vmess, uuid: d631d695-2df8-37a8-9c5c-a39e52a40c63, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 HKT｜隧道 03 - 爱猫论坛, server: 120.195.181.54, port: 36021, client-fingerprint: chrome, type: vmess, uuid: d631d695-2df8-37a8-9c5c-a39e52a40c63, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 直连1 - 爱猫论坛, server: hk1.594888.xyz, port: 2443, client-fingerprint: chrome, type: vmess, uuid: d631d695-2df8-37a8-9c5c-a39e52a40c63, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: hk1.594888.xyz}}, udp: true}
-- {name: 🇭🇰 香港 直连2 - 爱猫论坛, server: hk2.594888.xyz, port: 443, client-fingerprint: chrome, type: vmess, uuid: d631d695-2df8-37a8-9c5c-a39e52a40c63, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: hk2.594888.xyz}}, udp: true}
+- {name: 🇭🇰 香港 HKT｜隧道 02 - 爱猫论坛, server: 120.195.181.54, port: 36010, type: vmess, uuid: 1127301a-e436-3bf5-a339-8a774b62ad9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 HKT｜隧道 03 - 爱猫论坛, server: 120.195.181.54, port: 36021, type: vmess, uuid: 1127301a-e436-3bf5-a339-8a774b62ad9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 直连1 - 爱猫论坛, server: hk1.594888.xyz, port: 2443, type: vmess, uuid: 1127301a-e436-3bf5-a339-8a774b62ad9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: hk1.594888.xyz}}, udp: true}
+- {name: 🇭🇰 香港 直连2 - 爱猫论坛, server: hk2.594888.xyz, port: 443, type: vmess, uuid: 1127301a-e436-3bf5-a339-8a774b62ad9d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: hk2.594888.xyz}}, udp: true}
