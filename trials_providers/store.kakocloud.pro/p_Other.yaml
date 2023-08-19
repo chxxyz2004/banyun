@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 距离下次重置剩余：1 天 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
