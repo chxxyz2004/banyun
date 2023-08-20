@@ -45,6 +45,9 @@ proxy-groups:
   - 🇸🇬 新加坡 01 1x - Kako Cloud
   - 🇸🇬 新加坡 02 1x - Kako Cloud
   - 🇸🇬 新加坡 03 1x - Kako Cloud
+  - 🇸🇬 新加坡 免费 01 - Kako Cloud
+  - 🇸🇬 新加坡 免费 02 - Kako Cloud
+  - 🇸🇬 新加坡 02 - Kako Cloud
   - 🇸🇬 新加坡 0.025x - Kako Cloud
   - 🇯🇵 日本 01 1x - Kako Cloud
   - 🇯🇵 日本 02 1x - Kako Cloud
@@ -52,6 +55,8 @@ proxy-groups:
   - 🇺🇸 美国 01 1x - Kako Cloud
   - 🇺🇸 美国 02 1x - Kako Cloud
   - 🇺🇸 美国 03 1x - Kako Cloud
+  - 🇺🇸 美国 免费 01 - Kako Cloud
+  - 🇺🇸 美国 免费 02 - Kako Cloud
   - 🇺🇸 美国 0.025x - Kako Cloud
   - 🇺🇸 美国 0x - Kako Cloud
   - 🇮🇸 南极🌏&冰岛❄&爱沙尼亚🌍节点上线！ - Kako Cloud
@@ -178,6 +183,9 @@ proxy-groups:
   - 🇸🇬 新加坡 01 1x - Kako Cloud
   - 🇸🇬 新加坡 02 1x - Kako Cloud
   - 🇸🇬 新加坡 03 1x - Kako Cloud
+  - 🇸🇬 新加坡 免费 01 - Kako Cloud
+  - 🇸🇬 新加坡 免费 02 - Kako Cloud
+  - 🇸🇬 新加坡 02 - Kako Cloud
   - 🇸🇬 新加坡 0.025x - Kako Cloud
 - name: 🇯🇵 ‍日本
   type: url-test
@@ -197,6 +205,8 @@ proxy-groups:
   - 🇺🇸 美国 01 1x - Kako Cloud
   - 🇺🇸 美国 02 1x - Kako Cloud
   - 🇺🇸 美国 03 1x - Kako Cloud
+  - 🇺🇸 美国 免费 01 - Kako Cloud
+  - 🇺🇸 美国 免费 02 - Kako Cloud
   - 🇺🇸 美国 0.025x - Kako Cloud
   - 🇺🇸 美国 0x - Kako Cloud
 - name: 🎏 ‍其他
@@ -282,13 +292,18 @@ proxies:
 - {name: 🇹🇷 土耳其 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 22603, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
 - {name: 🇹🇷 土耳其 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 22602, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
 - {name: 🇩🇪 德国 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 41962, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
-- {name: 🇩🇪 德国 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 47750, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
+- {name: 🇩🇪 德国 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 31393, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
 - {name: 🇩🇪 德国 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 41963, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
 - {name: 🇭🇰 深港专线iepl_10x - Kako Cloud, server: iplc.node2.kk-proxy.pro, port: 25289, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
 - {name: 🇹🇼 深台专线iepl_10x - Kako Cloud, server: iplc.node2.kk-proxy.pro, port: 35897, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
 - {name: 🇭🇰 唯云莞港iplc 15x - Kako Cloud, server: iplc.node.kk-proxy.pro, port: 55384, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
 - {name: 🇹🇼 唯云莞台iplc 15x - Kako Cloud, server: iplc.node.kk-proxy.pro, port: 11308, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
 - {name: 以下为冷门/公益节点 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: vmess, uuid: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: test.test.test, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: Dont.Connect.Me}}, udp: true}
+- {name: 🇸🇬 新加坡 免费 01 - Kako Cloud, server: free.node.kk-proxy.pro, port: 54790, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
+- {name: 🇸🇬 新加坡 免费 02 - Kako Cloud, server: free.node.kk-proxy.pro, port: 42423, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
+- {name: 🇸🇬 新加坡 02 - Kako Cloud, server: free.node.kk-proxy.pro, port: 54087, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
+- {name: 🇺🇸 美国 免费 01 - Kako Cloud, server: free.node.kk-proxy.pro, port: 27194, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
+- {name: 🇺🇸 美国 免费 02 - Kako Cloud, server: free.node.kk-proxy.pro, port: 27195, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
 - {name: 巴巴多斯 1.5x - Kako Cloud, server: others.proxy.kk-proxy.pro, port: 12534, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
 - {name: 🇬🇧 英国 1.2x - Kako Cloud, server: others2.proxy.kk-proxy.pro, port: 38463, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
 - {name: 🇰🇷 韩国 1.2x - Kako Cloud, server: others.proxy.kk-proxy.pro, port: 43339, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}

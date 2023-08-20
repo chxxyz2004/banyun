@@ -9,7 +9,7 @@ proxies:
 - {name: 🇹🇷 土耳其 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 22603, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
 - {name: 🇹🇷 土耳其 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 22602, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
 - {name: 🇩🇪 德国 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 41962, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
-- {name: 🇩🇪 德国 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 47750, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
+- {name: 🇩🇪 德国 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 31393, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
 - {name: 🇩🇪 德国 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 41963, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
 - {name: 以下为冷门/公益节点 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: vmess, uuid: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: test.test.test, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: Dont.Connect.Me}}, udp: true}
 - {name: 巴巴多斯 1.5x - Kako Cloud, server: others.proxy.kk-proxy.pro, port: 12534, type: ss, cipher: chacha20-ietf-poly1305, password: 8a2acc2a-0469-4726-83eb-66653d7ec5eb, udp: true}
