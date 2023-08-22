@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本3 - giao云, server: 822jp3.ljydw.top, port: 443, type: trojan, password: 81b31754-8c2e-48b7-b3da-9eabc10dc46d, sni: 822jp3.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本2 - giao云, server: 89jp.ljydw.top, port: 443, type: trojan, password: 81b31754-8c2e-48b7-b3da-9eabc10dc46d, sni: 89jp.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本5 - giao云, server: 822jp12.ljydw.top, port: 443, type: trojan, password: 81b31754-8c2e-48b7-b3da-9eabc10dc46d, sni: 822jp12.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本6 - giao云, server: 822jp15.ljydw.top, port: 443, type: trojan, password: 81b31754-8c2e-48b7-b3da-9eabc10dc46d, sni: 822jp15.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本3 - giao云, server: 822jp3.ljydw.top, port: 443, client-fingerprint: chrome, type: trojan, password: 81b31754-8c2e-48b7-b3da-9eabc10dc46d, tfo: false, sni: 822jp3.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本2 - giao云, server: 89jp.ljydw.top, port: 443, client-fingerprint: chrome, type: trojan, password: 81b31754-8c2e-48b7-b3da-9eabc10dc46d, tfo: false, sni: 89jp.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本5 - giao云, server: 822jp12.ljydw.top, port: 443, client-fingerprint: chrome, type: trojan, password: 81b31754-8c2e-48b7-b3da-9eabc10dc46d, tfo: false, sni: 822jp12.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本6 - giao云, server: 822jp15.ljydw.top, port: 443, client-fingerprint: chrome, type: trojan, password: 81b31754-8c2e-48b7-b3da-9eabc10dc46d, tfo: false, sni: 822jp15.ljydw.top, skip-cert-verify: true, udp: true}
