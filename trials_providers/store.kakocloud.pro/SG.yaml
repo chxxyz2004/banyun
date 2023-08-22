@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 01 - Kako Cloud, server: free.node.kk-proxy.pro, port: 31659, type: ss, cipher: chacha20-ietf-poly1305, password: 275981d7-3d9d-48cf-9115-45b62545e248, udp: true}
-- {name: 🇸🇬 新加坡 02 - Kako Cloud, server: free.node.kk-proxy.pro, port: 54087, type: ss, cipher: chacha20-ietf-poly1305, password: 275981d7-3d9d-48cf-9115-45b62545e248, udp: true}
+- {name: 🇸🇬 新加坡 01 - Kako Cloud, server: free.node.kk-proxy.pro, port: 31659, type: ss, cipher: chacha20-ietf-poly1305, password: 0624a609-c6ea-427c-af4a-6d39aaf6064f, udp: true}
+- {name: 🇸🇬 新加坡 02 - Kako Cloud, server: free.node.kk-proxy.pro, port: 54087, type: ss, cipher: chacha20-ietf-poly1305, password: 0624a609-c6ea-427c-af4a-6d39aaf6064f, udp: true}
