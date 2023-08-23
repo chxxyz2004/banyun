@@ -1,16 +1,16 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇮🇳 印度01 - Cyanmori, server: jp1.susenl.com, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: KSn7ixfe0CaaJxwa, udp: true}
-- {name: 🇮🇳 印度02 - Cyanmori, server: jp1.susenl.com, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: KSn7ixfe0CaaJxwa, udp: true}
-- {name: 🇰🇷 韩国01 - Cyanmori, server: jp1.susenl.com, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: KSn7ixfe0CaaJxwa, udp: true}
-- {name: 🇰🇷 韩国02 - Cyanmori, server: jp1.susenl.com, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: KSn7ixfe0CaaJxwa, udp: true}
-- {name: 🇬🇧 英国01 - Cyanmori, server: jp1.susenl.com, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: KSn7ixfe0CaaJxwa, udp: true}
-- {name: 🇬🇧 英国02 - Cyanmori, server: jp1.susenl.com, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: KSn7ixfe0CaaJxwa, udp: true}
-- {name: 🇩🇪 德国柏林01 - Cyanmori, server: jp1.susenl.com, port: 10069, type: ss, cipher: chacha20-ietf-poly1305, password: KSn7ixfe0CaaJxwa, udp: true}
-- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: jp1.susenl.com, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: KSn7ixfe0CaaJxwa, udp: true}
-- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: jp1.susenl.com, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: KSn7ixfe0CaaJxwa, udp: true}
-- {name: 🇦🇪 迪拜01 - Cyanmori, server: jp1.susenl.com, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: KSn7ixfe0CaaJxwa, udp: true}
-- {name: 🇦🇪 迪拜02 - Cyanmori, server: jp1.susenl.com, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: KSn7ixfe0CaaJxwa, udp: true}
-- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 85be45f5-a3ba-34ee-876f-50d7755c93ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 85be45f5-a3ba-34ee-876f-50d7755c93ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度01 - Cyanmori, server: jp1.susenl.com, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: 0Wm8uJ0hH9uj6uob, udp: true}
+- {name: 🇮🇳 印度02 - Cyanmori, server: jp1.susenl.com, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: 0Wm8uJ0hH9uj6uob, udp: true}
+- {name: 🇰🇷 韩国01 - Cyanmori, server: jp1.susenl.com, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: 0Wm8uJ0hH9uj6uob, udp: true}
+- {name: 🇰🇷 韩国02 - Cyanmori, server: jp1.susenl.com, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: 0Wm8uJ0hH9uj6uob, udp: true}
+- {name: 🇬🇧 英国01 - Cyanmori, server: jp1.susenl.com, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: 0Wm8uJ0hH9uj6uob, udp: true}
+- {name: 🇬🇧 英国02 - Cyanmori, server: jp1.susenl.com, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: 0Wm8uJ0hH9uj6uob, udp: true}
+- {name: 🇩🇪 德国柏林01 - Cyanmori, server: jp1.susenl.com, port: 10069, type: ss, cipher: chacha20-ietf-poly1305, password: 0Wm8uJ0hH9uj6uob, udp: true}
+- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: jp1.susenl.com, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: 0Wm8uJ0hH9uj6uob, udp: true}
+- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: jp1.susenl.com, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: 0Wm8uJ0hH9uj6uob, udp: true}
+- {name: 🇦🇪 迪拜01 - Cyanmori, server: jp1.susenl.com, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: 0Wm8uJ0hH9uj6uob, udp: true}
+- {name: 🇦🇪 迪拜02 - Cyanmori, server: jp1.susenl.com, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: 0Wm8uJ0hH9uj6uob, udp: true}
+- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: dfd9f4ce-30c7-32c0-b180-3e3365f80743, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: dfd9f4ce-30c7-32c0-b180-3e3365f80743, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
