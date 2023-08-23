@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 - 东京 R - V2Link, server: host-011.crazyspeed.xyz, port: 30601, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: adc699c9-1e11-4fce-bf36-a2c72eee9238, tfo: false, udp: true}
-- {name: 🇯🇵 日本 - 大版 A - V2Link, server: host-012.crazyspeed.xyz, port: 30602, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: adc699c9-1e11-4fce-bf36-a2c72eee9238, tfo: false, udp: true}
-- {name: 🇯🇵 日本 - 东京 A - V2Link, server: host-013.crazyspeed.xyz, port: 30603, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: adc699c9-1e11-4fce-bf36-a2c72eee9238, tfo: false, udp: true}
-- {name: 🇯🇵 日本 - 大版 B - V2Link, server: host-014.crazyspeed.xyz, port: 30604, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: adc699c9-1e11-4fce-bf36-a2c72eee9238, tfo: false, udp: true}
-- {name: 🇯🇵 日本 - 东京 B - V2Link, server: host-015.crazyspeed.xyz, port: 30605, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: adc699c9-1e11-4fce-bf36-a2c72eee9238, tfo: false, udp: true}
+- {name: 🇯🇵 日本 - 东京 R - V2Link, server: host-011.crazyspeed.xyz, port: 30601, type: ss, cipher: chacha20-ietf-poly1305, password: 7d53dd2a-dcac-4e15-a994-5286a8e3ca93, udp: true}
+- {name: 🇯🇵 日本 - 大版 A - V2Link, server: host-012.crazyspeed.xyz, port: 30602, type: ss, cipher: chacha20-ietf-poly1305, password: 7d53dd2a-dcac-4e15-a994-5286a8e3ca93, udp: true}
+- {name: 🇯🇵 日本 - 东京 A - V2Link, server: host-013.crazyspeed.xyz, port: 30603, type: ss, cipher: chacha20-ietf-poly1305, password: 7d53dd2a-dcac-4e15-a994-5286a8e3ca93, udp: true}
+- {name: 🇯🇵 日本 - 大版 B - V2Link, server: host-014.crazyspeed.xyz, port: 30604, type: ss, cipher: chacha20-ietf-poly1305, password: 7d53dd2a-dcac-4e15-a994-5286a8e3ca93, udp: true}
+- {name: 🇯🇵 日本 - 东京 B - V2Link, server: host-015.crazyspeed.xyz, port: 30605, type: ss, cipher: chacha20-ietf-poly1305, password: 7d53dd2a-dcac-4e15-a994-5286a8e3ca93, udp: true}
