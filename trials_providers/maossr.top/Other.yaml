@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇩🇪 德国｜隧道 01 - 爱猫论坛, server: sahng5.594888.xyz, port: 36016, type: vmess, uuid: 8b72dc1a-56fe-3430-ac11-29ece58ce904, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国｜隧道 01 - 爱猫论坛, server: sahng1.594888.xyz, port: 36017, type: vmess, uuid: 8b72dc1a-56fe-3430-ac11-29ece58ce904, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国 首尔｜隧道 01 - 爱猫论坛, server: sahng6.594888.xyz, port: 36012, type: vmess, uuid: 8b72dc1a-56fe-3430-ac11-29ece58ce904, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国｜隧道 01 - 爱猫论坛, server: sahng5.594888.xyz, port: 36016, type: vmess, uuid: 01fd21a4-de1b-3157-87a3-9b07b53a4c00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国｜隧道 01 - 爱猫论坛, server: sahng1.594888.xyz, port: 36017, type: vmess, uuid: 01fd21a4-de1b-3157-87a3-9b07b53a4c00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国 首尔｜隧道 01 - 爱猫论坛, server: sahng6.594888.xyz, port: 36012, type: vmess, uuid: 01fd21a4-de1b-3157-87a3-9b07b53a4c00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
