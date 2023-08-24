@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 01 - Kako Cloud, server: free.node.kk-proxy.pro, port: 31659, type: ss, cipher: chacha20-ietf-poly1305, password: 7f7577ab-3486-4ebb-b4df-c63d523142b5, udp: true}
-- {name: 🇸🇬 新加坡 02 - Kako Cloud, server: free.node.kk-proxy.pro, port: 54087, type: ss, cipher: chacha20-ietf-poly1305, password: 7f7577ab-3486-4ebb-b4df-c63d523142b5, udp: true}
-- {name: 🇸🇬 新加坡 03 - Kako Cloud, server: free2.node.kk-proxy.pro, port: 443, type: vmess, uuid: 7f7577ab-3486-4ebb-b4df-c63d523142b5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgfree01.mikuproxy.pro}}, udp: true}
-- {name: 🇸🇬 新加坡 04 - Kako Cloud, server: free2.node.kk-proxy.pro, port: 443, type: vmess, uuid: 7f7577ab-3486-4ebb-b4df-c63d523142b5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgfree01.mikuproxy.pro}}, udp: true}
+- {name: 🇸🇬 新加坡 01 - Kako Cloud, server: free.node.kk-proxy.pro, port: 31659, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 741d49ee-13e8-457a-a9d2-311b51d2aa05, tfo: false, udp: true}
+- {name: 🇸🇬 新加坡 02 - Kako Cloud, server: free.node.kk-proxy.pro, port: 54087, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 741d49ee-13e8-457a-a9d2-311b51d2aa05, tfo: false, udp: true}
+- {name: 🇸🇬 新加坡 03 - Kako Cloud, server: free2.node.kk-proxy.pro, port: 443, client-fingerprint: chrome, type: vmess, uuid: 741d49ee-13e8-457a-a9d2-311b51d2aa05, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: sgfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgfree01.mikuproxy.pro}}, udp: true}
+- {name: 🇸🇬 新加坡 04 - Kako Cloud, server: free2.node.kk-proxy.pro, port: 443, client-fingerprint: chrome, type: vmess, uuid: 741d49ee-13e8-457a-a9d2-311b51d2aa05, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: sgfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgfree01.mikuproxy.pro}}, udp: true}
