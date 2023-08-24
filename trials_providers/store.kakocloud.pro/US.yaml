@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 01 - Kako Cloud, server: free.node.kk-proxy.pro, port: 55928, type: ss, cipher: chacha20-ietf-poly1305, password: 7e0b48a6-8a50-4241-848d-2b28ff260005, udp: true}
-- {name: 🇺🇸 美国 02 - Kako Cloud, server: free.node.kk-proxy.pro, port: 54455, type: ss, cipher: chacha20-ietf-poly1305, password: 7e0b48a6-8a50-4241-848d-2b28ff260005, udp: true}
-- {name: 🇺🇸 美国 03 - Kako Cloud, server: free2.node.kk-proxy.pro, port: 443, type: vmess, uuid: 7e0b48a6-8a50-4241-848d-2b28ff260005, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: usfree01.mikuproxy.pro}}, udp: true}
-- {name: 🇺🇸 美国 04 - Kako Cloud, server: free2.node.kk-proxy.pro, port: 443, type: vmess, uuid: 7e0b48a6-8a50-4241-848d-2b28ff260005, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: usfree01.mikuproxy.pro}}, udp: true}
+- {name: 🇺🇸 美国 01 - Kako Cloud, server: free.node.kk-proxy.pro, port: 55928, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: a3d95108-8c16-4b8d-80c9-7a8bc8e9819e, tfo: false, udp: true}
+- {name: 🇺🇸 美国 02 - Kako Cloud, server: free.node.kk-proxy.pro, port: 54455, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: a3d95108-8c16-4b8d-80c9-7a8bc8e9819e, tfo: false, udp: true}
+- {name: 🇺🇸 美国 03 - Kako Cloud, server: free2.node.kk-proxy.pro, port: 443, client-fingerprint: chrome, type: vmess, uuid: a3d95108-8c16-4b8d-80c9-7a8bc8e9819e, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: usfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: usfree01.mikuproxy.pro}}, udp: true}
+- {name: 🇺🇸 美国 04 - Kako Cloud, server: free2.node.kk-proxy.pro, port: 443, client-fingerprint: chrome, type: vmess, uuid: a3d95108-8c16-4b8d-80c9-7a8bc8e9819e, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: usfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: usfree01.mikuproxy.pro}}, udp: true}
