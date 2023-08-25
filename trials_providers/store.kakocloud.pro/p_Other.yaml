@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 免费计划仅包含8个节点，要获取全部节点，请购买付费套餐。 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 6c803511-61ed-4075-8c29-faa21f318951, udp: true}
+- {name: 免费计划仅包含8个节点，要获取全部节点，请购买付费套餐。 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: dabe7cd1-b5f1-44b9-a748-c9245409c4f7, udp: true}
