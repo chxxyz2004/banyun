@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 免费计划仅包含8个节点，要获取全部节点，请购买付费套餐。 - Kako Cloud, server: Dont.Connect.Me, port: 65535, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 741d49ee-13e8-457a-a9d2-311b51d2aa05, tfo: false, udp: true}
-- {name: tg频道:@kkyun_proxy - Kako Cloud, server: Dont.Connect.Me, port: 65535, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 741d49ee-13e8-457a-a9d2-311b51d2aa05, tfo: false, udp: true}
+- {name: 免费计划仅包含8个节点，要获取全部节点，请购买付费套餐。 - Kako Cloud, server: Dont.Connect.Me, port: 65535, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 8faad450-afb7-4ca4-abdc-46347321be32, tfo: false, udp: true}
+- {name: tg频道:@kkyun_proxy - Kako Cloud, server: Dont.Connect.Me, port: 65535, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 8faad450-afb7-4ca4-abdc-46347321be32, tfo: false, udp: true}
