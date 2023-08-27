@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇵🇭 菲律宾 IPC *3 - 独孤乐天, server: nph-1.biyaoshidian.top, port: 443, type: vmess, uuid: ebb3ed79-e238-35bb-8ce0-7c95a75c85d4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.bugubudu.top}}, udp: true}
-- {name: 🇵🇭 菲律宾 IPC2 *3 - 独孤乐天, server: ph-2.biyaoshidian.top, port: 443, type: vmess, uuid: ebb3ed79-e238-35bb-8ce0-7c95a75c85d4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.bugubudu.top}}, udp: true}
+- {name: 🇵🇭 菲律宾 IPC *3 - 独孤乐天, server: nph-1.biyaoshidian.top, port: 443, type: vmess, uuid: 4b4630f3-052f-334c-8878-9962ed36c9bc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.bugubudu.top}}, udp: true}
+- {name: 🇵🇭 菲律宾 IPC2 *3 - 独孤乐天, server: ph-2.biyaoshidian.top, port: 443, type: vmess, uuid: 4b4630f3-052f-334c-8878-9962ed36c9bc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.bugubudu.top}}, udp: true}
