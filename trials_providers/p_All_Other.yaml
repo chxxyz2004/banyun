@@ -286,13 +286,13 @@ proxies:
 - {name: 🇫🇷 法国2 - 快乐星球, server: 1.5x.turn.catscloud.top, port: 22291, type: ss, cipher: aes-128-gcm, password: 455afcaf-6f7a-4561-a865-0bf48cd48ad1, udp: true}
 - {name: 🇫🇷 法国3 - 快乐星球, server: 1x.turn.catscloud.top, port: 22291, type: ss, cipher: aes-128-gcm, password: 455afcaf-6f7a-4561-a865-0bf48cd48ad1, udp: true}
 - {name: 🇹🇷 土耳其2 - 快乐星球, server: 2x.turn.catscloud.top, port: 22271, type: ss, cipher: aes-128-gcm, password: 455afcaf-6f7a-4561-a865-0bf48cd48ad1, udp: true}
-- {name: tg频道:@kkyun_proxy - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 40384d8d-022b-428e-97ed-b9c1809ab333, udp: true}
+- {name: tg频道:@kkyun_proxy - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 66f1ac73-10f4-4cc9-a2fa-08f0f3d47924, udp: true}
 - {name: 🇰🇷 KR-1 - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
 - {name: 🇰🇷 KR-2 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
-- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gg.58n.net, port: 25238, type: trojan, password: a421a5c3-abcc-3198-a525-8713c70b90de, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gg.58n.net, port: 11215, type: trojan, password: a421a5c3-abcc-3198-a525-8713c70b90de, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gg.58n.net, port: 45168, type: trojan, password: a421a5c3-abcc-3198-a525-8713c70b90de, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gg.58n.net, port: 50355, type: trojan, password: a421a5c3-abcc-3198-a525-8713c70b90de, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gg.58n.net, port: 25238, type: trojan, password: 414ab1d4-1d7f-38f1-a9e2-d0b591b4614f, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gg.58n.net, port: 11215, type: trojan, password: 414ab1d4-1d7f-38f1-a9e2-d0b591b4614f, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gg.58n.net, port: 45168, type: trojan, password: 414ab1d4-1d7f-38f1-a9e2-d0b591b4614f, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gg.58n.net, port: 50355, type: trojan, password: 414ab1d4-1d7f-38f1-a9e2-d0b591b4614f, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇲🇳 【I】蒙古 普通 A - MN - SockBoom, server: n170.boom.skin, port: 33000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 881155:32X93H, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇦🇪迪拜-中转 - 青花瓷云qhcy.cc, server: sdzbfji53a.gaosugo.top, port: 15281, type: vmess, uuid: 268270ae-16cb-4b8a-b677-3569da2bf36d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇰🇭 柬埔寨IPv6-直连 - 青花瓷云qhcy.cc, server: kh1.q5wrff7jtkdg23.top, port: 13549, type: vmess, uuid: 268270ae-16cb-4b8a-b677-3569da2bf36d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
