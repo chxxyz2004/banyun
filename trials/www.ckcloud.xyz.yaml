@@ -37,6 +37,7 @@ proxy-groups:
   - 🇭🇰 JCBB_香港03_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港03【vip1】 - JCBB
   - 🇭🇰 JCBB_香港04【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港0 4_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港 05【vip1】 - JCBB
   - 🇭🇰 JCBB_香港 06_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港 06【vip1】 - JCBB
@@ -141,6 +142,7 @@ proxy-groups:
   - 🇭🇰 JCBB_香港03_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港03【vip1】 - JCBB
   - 🇭🇰 JCBB_香港04【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港0 4_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港 05【vip1】 - JCBB
   - 🇭🇰 JCBB_香港 06_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港 06【vip1】 - JCBB
@@ -170,6 +172,7 @@ proxy-groups:
   - 🇭🇰 JCBB_香港03_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港03【vip1】 - JCBB
   - 🇭🇰 JCBB_香港04【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港0 4_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港 05【vip1】 - JCBB
   - 🇭🇰 JCBB_香港 06_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港 06【vip1】 - JCBB
@@ -276,7 +279,8 @@ proxies:
 - {name: 🇭🇰 JCBB_香港02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 47321, type: trojan, password: c996f37f-6587-4668-83c9-9be6904d346b, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港03_1【vip1】 - JCBB, server: gzyd.jcnode.top, port: 49486, type: trojan, password: c996f37f-6587-4668-83c9-9be6904d346b, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港03【vip1】 - JCBB, server: gzyd.jcnode.top, port: 11936, type: trojan, password: c996f37f-6587-4668-83c9-9be6904d346b, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港04【vip1】 - JCBB, server: gzyd.jcnode.top, port: 11936, type: trojan, password: c996f37f-6587-4668-83c9-9be6904d346b, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港04【vip1】 - JCBB, server: gzdx.jcnode.top, port: 35257, type: trojan, password: c996f37f-6587-4668-83c9-9be6904d346b, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港0 4_1【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 51884, type: trojan, password: c996f37f-6587-4668-83c9-9be6904d346b, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港 05【vip1】 - JCBB, server: gzyd.jcnode.top, port: 22174, type: trojan, password: c996f37f-6587-4668-83c9-9be6904d346b, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港 06_1【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 17967, type: trojan, password: c996f37f-6587-4668-83c9-9be6904d346b, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港 06【vip1】 - JCBB, server: gzdx.jcnode.top, port: 36564, type: trojan, password: c996f37f-6587-4668-83c9-9be6904d346b, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
