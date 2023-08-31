@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 - giao云, server: 86us3.ljydw.top, port: 443, type: trojan, password: f25be2dc-f982-4f32-8cc0-77bc72edb681, sni: 86us3.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 - giao云, server: 86us3.ljydw.top, port: 443, type: trojan, password: 9c9246c9-aefc-4f4d-aaf3-614293fc7fca, sni: 86us3.ljydw.top, skip-cert-verify: true, udp: true}
