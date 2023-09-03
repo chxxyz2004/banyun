@@ -33,7 +33,6 @@ proxies:
 - {name: 🇸🇬 新加坡 免费 01 - Kako Cloud, server: free.node.kk-proxy.pro, port: 54790, type: ss, cipher: chacha20-ietf-poly1305, password: e2fb77eb-4f58-4d16-abae-23154ce286af, udp: true}
 - {name: 🇸🇬 新加坡 免费 02 - Kako Cloud, server: free.node.kk-proxy.pro, port: 42423, type: ss, cipher: chacha20-ietf-poly1305, password: e2fb77eb-4f58-4d16-abae-23154ce286af, udp: true}
 - {name: 🇺🇸 美国 免费 01 - Kako Cloud, server: free.node.kk-proxy.pro, port: 27194, type: ss, cipher: chacha20-ietf-poly1305, password: e2fb77eb-4f58-4d16-abae-23154ce286af, udp: true}
-- {name: 🇺🇸 美国 免费 02 - Kako Cloud, server: free.node.kk-proxy.pro, port: 27195, type: ss, cipher: chacha20-ietf-poly1305, password: e2fb77eb-4f58-4d16-abae-23154ce286af, udp: true}
 - {name: 巴巴多斯 1.5x - Kako Cloud, server: others.proxy.kk-proxy.pro, port: 12534, type: ss, cipher: chacha20-ietf-poly1305, password: e2fb77eb-4f58-4d16-abae-23154ce286af, udp: true}
 - {name: 🇬🇧 英国 1.2x - Kako Cloud, server: others2.proxy.kk-proxy.pro, port: 38463, type: ss, cipher: chacha20-ietf-poly1305, password: e2fb77eb-4f58-4d16-abae-23154ce286af, udp: true}
 - {name: 🇰🇷 韩国 1.2x - Kako Cloud, server: others.proxy.kk-proxy.pro, port: 43339, type: ss, cipher: chacha20-ietf-poly1305, password: e2fb77eb-4f58-4d16-abae-23154ce286af, udp: true}
