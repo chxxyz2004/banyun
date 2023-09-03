@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: miku今年16岁了！上官网和我们一起庆生吧！！ - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: e2fb77eb-4f58-4d16-abae-23154ce286af, udp: true}
+- {name: miku今年16岁了！上官网和我们一起庆生吧！！ - Kako Cloud, server: Dont.Connect.Me, port: 65535, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: e2fb77eb-4f58-4d16-abae-23154ce286af, tfo: false, udp: true}
