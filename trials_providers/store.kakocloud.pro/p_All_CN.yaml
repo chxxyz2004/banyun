@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇲🇴 澳门 3x - Kako Cloud, server: others5.proxy.kk-proxy.pro, port: 19889, type: ss, cipher: chacha20-ietf-poly1305, password: f9b145d5-9cf9-4394-9819-0d6dc7621aef, udp: true}
+- {name: 🇲🇴 澳门 3x - Kako Cloud, server: others5.proxy.kk-proxy.pro, port: 19889, type: ss, cipher: chacha20-ietf-poly1305, password: 53f4737f-58ae-4760-bf7e-a8b05b289465, udp: true}
