@@ -20,7 +20,6 @@ proxies:
 - {name: 🇮🇸 冰岛 2.5x - Kako Cloud, server: others4.proxy.kk-proxy.pro, port: 31513, type: ss, cipher: chacha20-ietf-poly1305, password: f9b145d5-9cf9-4394-9819-0d6dc7621aef, udp: true}
 - {name: 🇪🇪 爱沙尼亚 2.5x - Kako Cloud, server: others4.proxy.kk-proxy.pro, port: 11824, type: ss, cipher: chacha20-ietf-poly1305, password: f9b145d5-9cf9-4394-9819-0d6dc7621aef, udp: true}
 - {name: 🇪🇨 厄瓜多尔 1.5x - Kako Cloud, server: others3.proxy.kk-proxy.pro, port: 24852, type: ss, cipher: chacha20-ietf-poly1305, password: f9b145d5-9cf9-4394-9819-0d6dc7621aef, udp: true}
-- {name: 伊拉克家宽 3x - Kako Cloud, server: others4.proxy.kk-proxy.pro, port: 50383, type: ss, cipher: chacha20-ietf-poly1305, password: f9b145d5-9cf9-4394-9819-0d6dc7621aef, udp: true}
 - {name: 🇮🇷 伊朗家宽 3x - Kako Cloud, server: others4.proxy.kk-proxy.pro, port: 21273, type: ss, cipher: chacha20-ietf-poly1305, password: f9b145d5-9cf9-4394-9819-0d6dc7621aef, udp: true}
 - {name: 🇫🇮 芬兰 3x - Kako Cloud, server: others4.proxy.kk-proxy.pro, port: 46949, type: ss, cipher: chacha20-ietf-poly1305, password: f9b145d5-9cf9-4394-9819-0d6dc7621aef, udp: true}
 - {name: 🇸🇪 瑞典 3x - Kako Cloud, server: others4.proxy.kk-proxy.pro, port: 47499, type: ss, cipher: chacha20-ietf-poly1305, password: f9b145d5-9cf9-4394-9819-0d6dc7621aef, udp: true}
