@@ -1,5 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：1 天 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 29484d64-19b6-4025-a327-6b1a48bd3e10, udp: true}
-- {name: miku今年16岁了！上官网和我们一起庆生吧！！ - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 29484d64-19b6-4025-a327-6b1a48bd3e10, udp: true}
+- {name: miku今年16岁了！上官网和我们一起庆生吧！！ - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 1ee271c2-0706-4c8a-899b-fdd44e37c03a, udp: true}
