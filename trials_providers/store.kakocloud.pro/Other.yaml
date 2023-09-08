@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 免费计划仅包含8个节点，要获取全部节点，请购买付费套餐。 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 440463e1-9f8d-4b52-84ea-ea99e6abcfcf, udp: true}
-- {name: 无法使用时请更新订阅 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 440463e1-9f8d-4b52-84ea-ea99e6abcfcf, udp: true}
-- {name: tg频道:@kkyun_proxy - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 440463e1-9f8d-4b52-84ea-ea99e6abcfcf, udp: true}
+- {name: 免费计划仅包含8个节点，要获取全部节点，请购买付费套餐。 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 804c9d39-86bf-44bf-8802-4a1f1103448d, udp: true}
+- {name: 无法使用时请更新订阅 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 804c9d39-86bf-44bf-8802-4a1f1103448d, udp: true}
+- {name: tg频道:@kkyun_proxy - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 804c9d39-86bf-44bf-8802-4a1f1103448d, udp: true}
