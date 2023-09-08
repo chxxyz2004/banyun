@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: tg频道:@kkyun_proxy - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 10cb7984-df8a-421b-8c8a-b4805a17d01b, udp: true}
+- {name: tg频道:@kkyun_proxy - Kako Cloud, server: Dont.Connect.Me, port: 65535, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 231757f8-1abc-4a84-96f7-83cc6fac8a4a, tfo: false, udp: true}
