@@ -1,5 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡2 - giao云, server: 822sg9.ljydw.top, port: 26431, type: trojan, password: f10d0edb-6407-48e7-a194-457704ecfb9a, sni: 822sg9.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 - giao云, server: 86sg.ljydw.top, port: 443, type: trojan, password: f10d0edb-6407-48e7-a194-457704ecfb9a, sni: 86sg.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡2 - giao云, server: 822sg9.ljydw.top, port: 26431, type: trojan, password: 7e5f56e4-cd83-4c5c-936c-a592ec106d68, sni: 822sg9.ljydw.top, skip-cert-verify: true, udp: true}
