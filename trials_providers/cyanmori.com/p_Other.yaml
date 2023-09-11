@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, client-fingerprint: chrome, type: vmess, uuid: 68831ed8-df5b-33b3-afaf-6993bbb85d82, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, client-fingerprint: chrome, type: vmess, uuid: 68831ed8-df5b-33b3-afaf-6993bbb85d82, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
+- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 78632ace-f72e-3b5f-b8e4-e107e10e03d8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 78632ace-f72e-3b5f-b8e4-e107e10e03d8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
