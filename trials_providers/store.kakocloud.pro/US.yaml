@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 01 - Kako Cloud, server: free.node.kk-proxy.pro, port: 55928, type: ss, cipher: chacha20-ietf-poly1305, password: 08913723-519a-494d-bf7d-6ebe4a3e18b3, udp: true}
-- {name: 🇺🇸 美国 02 - Kako Cloud, server: free.node.kk-proxy.pro, port: 54455, type: ss, cipher: chacha20-ietf-poly1305, password: 08913723-519a-494d-bf7d-6ebe4a3e18b3, udp: true}
-- {name: 🇺🇸 美国 03 - Kako Cloud, server: free2.node.kk-proxy.pro, port: 443, type: vmess, uuid: 08913723-519a-494d-bf7d-6ebe4a3e18b3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: usfree01.mikuproxy.pro}}, udp: true}
-- {name: 🇺🇸 美国 04 - Kako Cloud, server: free2.node.kk-proxy.pro, port: 443, type: vmess, uuid: 08913723-519a-494d-bf7d-6ebe4a3e18b3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: usfree01.mikuproxy.pro}}, udp: true}
+- {name: 🇺🇸 美国 01 - Kako Cloud, server: free.node.kk-proxy.pro, port: 55928, type: ss, cipher: chacha20-ietf-poly1305, password: 5dc1bc30-d125-42f2-96c5-b7a473e64478, udp: true}
+- {name: 🇺🇸 美国 02 - Kako Cloud, server: free.node.kk-proxy.pro, port: 54455, type: ss, cipher: chacha20-ietf-poly1305, password: 5dc1bc30-d125-42f2-96c5-b7a473e64478, udp: true}
+- {name: 🇺🇸 美国 03 - Kako Cloud, server: free2.node.kk-proxy.pro, port: 443, type: vmess, uuid: 5dc1bc30-d125-42f2-96c5-b7a473e64478, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: usfree01.mikuproxy.pro}}, udp: true}
+- {name: 🇺🇸 美国 04 - Kako Cloud, server: free2.node.kk-proxy.pro, port: 443, type: vmess, uuid: 5dc1bc30-d125-42f2-96c5-b7a473e64478, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: usfree01.mikuproxy.pro}}, udp: true}
