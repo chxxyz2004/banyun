@@ -45,6 +45,28 @@ proxy-groups:
   - 🇭🇰 香港2 - giao云
   - 🇭🇰 香港3 - giao云
   - 🇭🇰 香港5 - giao云
+  - 🇭🇰 Vip1-1.广州1-香港A | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-1.广州1-香港B | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-1.广州1-香港C | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-1.广州1-香港D | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-2.南阳-香港A | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-2.南阳-香港B | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-2.南阳-香港C | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-2.南阳-香港D | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-0.广州2-香港A | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-0.广州2-香港B | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-0.广州2-香港C | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-0.广州2-香港D | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-1.佛山-香港A | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-1.佛山-香港B | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-1.扬州-香港A | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-1.扬州-香港B | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-1.扬州-香港C | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-1.扬州-香港D | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-2.江苏-香港A | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-2.江苏-香港B | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-2.江苏-香港C | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-2.江苏-香港D | 倍率x1 - 糖果
   - 🇭🇰 【A】香港 普通 1 - Nearoute - SockBoom
   - 🇭🇰 【A】香港 普通 A - Nearoute - SockBoom
   - 🇭🇰 【A】香港 普通 B - Nearoute - SockBoom
@@ -245,6 +267,17 @@ proxy-groups:
   - 🇹🇼 台湾专线-奈飞-TK-GPT - giao云
   - 🇹🇼 台湾2 - giao云
   - 🇹🇼 台湾3 - giao云
+  - 🇹🇼 Vip1-5.广州1-台湾A | 倍率x2 - 糖果
+  - 🇹🇼 Vip1-5.广州1-台湾B | 倍率x2 - 糖果
+  - 🇹🇼 Vip1-6.南阳-台湾A | 倍率x2 - 糖果
+  - 🇹🇼 Vip1-6.南阳-台湾B | 倍率x2 - 糖果
+  - 🇹🇼 Vip2-3.广州2-台湾A | 倍率x2 - 糖果
+  - 🇹🇼 Vip2-3.广州2-台湾B | 倍率x2 - 糖果
+  - 🇹🇼 Vip2-3.扬州-台湾A | 倍率x2 - 糖果
+  - 🇹🇼 Vip2-3.扬州-台湾B | 倍率x2 - 糖果
+  - 🇹🇼 Vip2-6.专线.深台A1 | 倍率x5 - 糖果
+  - 🇹🇼 Vip2-6.专线.深台A2 | 倍率x5 - 糖果
+  - 🇹🇼 Vip2-6.专线.深台A3 | 倍率x5 - 糖果
   - 🇹🇼 台湾 01 - 老猫云
   - 🇹🇼 广港•台湾258•高速 - 飞翔吧
   - 🇹🇼 中转•台湾100•高速 - 飞翔吧
@@ -397,6 +430,18 @@ proxy-groups:
   - 🇯🇵 日本02 - Cyanmori
   - 🇯🇵 日本03 - Cyanmori
   - 🇯🇵 日本04 - Cyanmori
+  - 🇯🇵 Vip1-7.广州1-日本A | 倍率x2 - 糖果
+  - 🇯🇵 Vip1-7.广州1-日本B | 倍率x2 - 糖果
+  - 🇯🇵 Vip1-8.南阳-日本A | 倍率x2 - 糖果
+  - 🇯🇵 Vip1-8.南阳-日本B | 倍率x2 - 糖果
+  - 🇯🇵 Vip2-4.广州2-日本A | 倍率x2 - 糖果
+  - 🇯🇵 Vip2-4.广州2-日本B | 倍率x2 - 糖果
+  - 🇯🇵 Vip2-4.扬州-日本A | 倍率x2 - 糖果
+  - 🇯🇵 Vip2-4.扬州-日本B | 倍率x2 - 糖果
+  - 🇯🇵 Vip2-4.扬州-日本C | 倍率x2 - 糖果
+  - 🇯🇵 Vip2-4.扬州-日本D | 倍率x2 - 糖果
+  - 🇯🇵 Vip2-4.江苏-日本A | 倍率x2 - 糖果
+  - 🇯🇵 Vip2-4.江苏-日本B | 倍率x2 - 糖果
   - 🇯🇵 【N】日本 普通 1 - Nerocloud - SockBoom
   - 🇯🇵 【N】日本 普通 2 - Nerocloud - SockBoom
   - 🇯🇵 【N】日本 普通 3 - Nerocloud - SockBoom
@@ -623,6 +668,20 @@ proxy-groups:
   - 🇺🇸 v2ray 美国阿什本节点VIP 643 - 紫云VPN服务商
   - 🇺🇸 美国专线1-奈飞-TK-HBO - giao云
   - 🇺🇸 美国 - giao云
+  - 🇺🇸 Vip1-3.广州1-美国A | 倍率x2 - 糖果
+  - 🇺🇸 Vip1-3.广州1-美国B | 倍率x2 - 糖果
+  - 🇺🇸 Vip1-3.广州1-美国C | 倍率x2 - 糖果
+  - 🇺🇸 Vip1-4.南阳-美国A | 倍率x2 - 糖果
+  - 🇺🇸 Vip1-4.南阳-美国B | 倍率x2 - 糖果
+  - 🇺🇸 Vip1-4.南阳-美国C | 倍率x2 - 糖果
+  - 🇺🇸 Vip2-1.江苏-美国A | 倍率x2 - 糖果
+  - 🇺🇸 Vip2-1.江苏-美国B | 倍率x2 - 糖果
+  - 🇺🇸 Vip2-2.佛山-美国A | 倍率x2 - 糖果
+  - 🇺🇸 Vip2-2.佛山-美国B | 倍率x2 - 糖果
+  - 🇺🇸 Vip2-2.广州2-美国A | 倍率x2 - 糖果
+  - 🇺🇸 Vip2-2.广州2-美国B | 倍率x2 - 糖果
+  - 🇺🇸 Vip2-2.扬州-美国A | 倍率x2 - 糖果
+  - 🇺🇸 Vip2-2.扬州-美国B | 倍率x2 - 糖果
   - 🇺🇸 【C】美国 普通 1 - CC - SockBoom
   - 🇺🇸 【C】美国 普通 2 - CC - SockBoom
   - 🇺🇸 【C】美国 普通 3 - CC - SockBoom
@@ -1125,6 +1184,28 @@ proxy-groups:
   - 🇭🇰 香港2 - giao云
   - 🇭🇰 香港3 - giao云
   - 🇭🇰 香港5 - giao云
+  - 🇭🇰 Vip1-1.广州1-香港A | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-1.广州1-香港B | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-1.广州1-香港C | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-1.广州1-香港D | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-2.南阳-香港A | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-2.南阳-香港B | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-2.南阳-香港C | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-2.南阳-香港D | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-0.广州2-香港A | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-0.广州2-香港B | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-0.广州2-香港C | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-0.广州2-香港D | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-1.佛山-香港A | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-1.佛山-香港B | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-1.扬州-香港A | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-1.扬州-香港B | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-1.扬州-香港C | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-1.扬州-香港D | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-2.江苏-香港A | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-2.江苏-香港B | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-2.江苏-香港C | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-2.江苏-香港D | 倍率x1 - 糖果
   - 🇭🇰 【A】香港 普通 1 - Nearoute - SockBoom
   - 🇭🇰 【A】香港 普通 A - Nearoute - SockBoom
   - 🇭🇰 【A】香港 普通 B - Nearoute - SockBoom
@@ -1331,6 +1412,17 @@ proxy-groups:
   - 🇹🇼 台湾专线-奈飞-TK-GPT - giao云
   - 🇹🇼 台湾2 - giao云
   - 🇹🇼 台湾3 - giao云
+  - 🇹🇼 Vip1-5.广州1-台湾A | 倍率x2 - 糖果
+  - 🇹🇼 Vip1-5.广州1-台湾B | 倍率x2 - 糖果
+  - 🇹🇼 Vip1-6.南阳-台湾A | 倍率x2 - 糖果
+  - 🇹🇼 Vip1-6.南阳-台湾B | 倍率x2 - 糖果
+  - 🇹🇼 Vip2-3.广州2-台湾A | 倍率x2 - 糖果
+  - 🇹🇼 Vip2-3.广州2-台湾B | 倍率x2 - 糖果
+  - 🇹🇼 Vip2-3.扬州-台湾A | 倍率x2 - 糖果
+  - 🇹🇼 Vip2-3.扬州-台湾B | 倍率x2 - 糖果
+  - 🇹🇼 Vip2-6.专线.深台A1 | 倍率x5 - 糖果
+  - 🇹🇼 Vip2-6.专线.深台A2 | 倍率x5 - 糖果
+  - 🇹🇼 Vip2-6.专线.深台A3 | 倍率x5 - 糖果
   - 🇹🇼 台湾 01 - 老猫云
   - 🇹🇼 广港•台湾258•高速 - 飞翔吧
   - 🇹🇼 中转•台湾100•高速 - 飞翔吧
@@ -1412,6 +1504,28 @@ proxy-groups:
   - 🇭🇰 香港2 - giao云
   - 🇭🇰 香港3 - giao云
   - 🇭🇰 香港5 - giao云
+  - 🇭🇰 Vip1-1.广州1-香港A | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-1.广州1-香港B | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-1.广州1-香港C | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-1.广州1-香港D | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-2.南阳-香港A | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-2.南阳-香港B | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-2.南阳-香港C | 倍率x1 - 糖果
+  - 🇭🇰 Vip1-2.南阳-香港D | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-0.广州2-香港A | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-0.广州2-香港B | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-0.广州2-香港C | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-0.广州2-香港D | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-1.佛山-香港A | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-1.佛山-香港B | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-1.扬州-香港A | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-1.扬州-香港B | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-1.扬州-香港C | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-1.扬州-香港D | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-2.江苏-香港A | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-2.江苏-香港B | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-2.江苏-香港C | 倍率x1 - 糖果
+  - 🇭🇰 Vip2-2.江苏-香港D | 倍率x1 - 糖果
   - 🇭🇰 【A】香港 普通 1 - Nearoute - SockBoom
   - 🇭🇰 【A】香港 普通 A - Nearoute - SockBoom
   - 🇭🇰 【A】香港 普通 B - Nearoute - SockBoom
@@ -1612,6 +1726,17 @@ proxy-groups:
   - 🇹🇼 台湾专线-奈飞-TK-GPT - giao云
   - 🇹🇼 台湾2 - giao云
   - 🇹🇼 台湾3 - giao云
+  - 🇹🇼 Vip1-5.广州1-台湾A | 倍率x2 - 糖果
+  - 🇹🇼 Vip1-5.广州1-台湾B | 倍率x2 - 糖果
+  - 🇹🇼 Vip1-6.南阳-台湾A | 倍率x2 - 糖果
+  - 🇹🇼 Vip1-6.南阳-台湾B | 倍率x2 - 糖果
+  - 🇹🇼 Vip2-3.广州2-台湾A | 倍率x2 - 糖果
+  - 🇹🇼 Vip2-3.广州2-台湾B | 倍率x2 - 糖果
+  - 🇹🇼 Vip2-3.扬州-台湾A | 倍率x2 - 糖果
+  - 🇹🇼 Vip2-3.扬州-台湾B | 倍率x2 - 糖果
+  - 🇹🇼 Vip2-6.专线.深台A1 | 倍率x5 - 糖果
+  - 🇹🇼 Vip2-6.专线.深台A2 | 倍率x5 - 糖果
+  - 🇹🇼 Vip2-6.专线.深台A3 | 倍率x5 - 糖果
   - 🇹🇼 台湾 01 - 老猫云
   - 🇹🇼 广港•台湾258•高速 - 飞翔吧
   - 🇹🇼 中转•台湾100•高速 - 飞翔吧
@@ -1777,6 +1902,18 @@ proxy-groups:
   - 🇯🇵 日本02 - Cyanmori
   - 🇯🇵 日本03 - Cyanmori
   - 🇯🇵 日本04 - Cyanmori
+  - 🇯🇵 Vip1-7.广州1-日本A | 倍率x2 - 糖果
+  - 🇯🇵 Vip1-7.广州1-日本B | 倍率x2 - 糖果
+  - 🇯🇵 Vip1-8.南阳-日本A | 倍率x2 - 糖果
+  - 🇯🇵 Vip1-8.南阳-日本B | 倍率x2 - 糖果
+  - 🇯🇵 Vip2-4.广州2-日本A | 倍率x2 - 糖果
+  - 🇯🇵 Vip2-4.广州2-日本B | 倍率x2 - 糖果
+  - 🇯🇵 Vip2-4.扬州-日本A | 倍率x2 - 糖果
+  - 🇯🇵 Vip2-4.扬州-日本B | 倍率x2 - 糖果
+  - 🇯🇵 Vip2-4.扬州-日本C | 倍率x2 - 糖果
+  - 🇯🇵 Vip2-4.扬州-日本D | 倍率x2 - 糖果
+  - 🇯🇵 Vip2-4.江苏-日本A | 倍率x2 - 糖果
+  - 🇯🇵 Vip2-4.江苏-日本B | 倍率x2 - 糖果
   - 🇯🇵 【N】日本 普通 1 - Nerocloud - SockBoom
   - 🇯🇵 【N】日本 普通 2 - Nerocloud - SockBoom
   - 🇯🇵 【N】日本 普通 3 - Nerocloud - SockBoom
@@ -2009,6 +2146,20 @@ proxy-groups:
   - 🇺🇸 v2ray 美国阿什本节点VIP 643 - 紫云VPN服务商
   - 🇺🇸 美国专线1-奈飞-TK-HBO - giao云
   - 🇺🇸 美国 - giao云
+  - 🇺🇸 Vip1-3.广州1-美国A | 倍率x2 - 糖果
+  - 🇺🇸 Vip1-3.广州1-美国B | 倍率x2 - 糖果
+  - 🇺🇸 Vip1-3.广州1-美国C | 倍率x2 - 糖果
+  - 🇺🇸 Vip1-4.南阳-美国A | 倍率x2 - 糖果
+  - 🇺🇸 Vip1-4.南阳-美国B | 倍率x2 - 糖果
+  - 🇺🇸 Vip1-4.南阳-美国C | 倍率x2 - 糖果
+  - 🇺🇸 Vip2-1.江苏-美国A | 倍率x2 - 糖果
+  - 🇺🇸 Vip2-1.江苏-美国B | 倍率x2 - 糖果
+  - 🇺🇸 Vip2-2.佛山-美国A | 倍率x2 - 糖果
+  - 🇺🇸 Vip2-2.佛山-美国B | 倍率x2 - 糖果
+  - 🇺🇸 Vip2-2.广州2-美国A | 倍率x2 - 糖果
+  - 🇺🇸 Vip2-2.广州2-美国B | 倍率x2 - 糖果
+  - 🇺🇸 Vip2-2.扬州-美国A | 倍率x2 - 糖果
+  - 🇺🇸 Vip2-2.扬州-美国B | 倍率x2 - 糖果
   - 🇺🇸 【C】美国 普通 1 - CC - SockBoom
   - 🇺🇸 【C】美国 普通 2 - CC - SockBoom
   - 🇺🇸 【C】美国 普通 3 - CC - SockBoom
@@ -2722,19 +2873,78 @@ proxies:
 - {name: 🇺🇸 v2ray 美国阿什本节点VIP 641 - 紫云VPN服务商, server: 104.27.107.10, port: 80, type: vmess, uuid: b55f241e-ae93-3b1f-b021-1a1e1cf07f06, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: ash.369777.xyz}}, udp: true}
 - {name: 🇺🇸 v2ray 美国阿什本节点VIP 642 - 紫云VPN服务商, server: 104.22.76.25, port: 80, type: vmess, uuid: b55f241e-ae93-3b1f-b021-1a1e1cf07f06, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: ash.369777.xyz}}, udp: true}
 - {name: 🇺🇸 v2ray 美国阿什本节点VIP 643 - 紫云VPN服务商, server: 104.25.19.73, port: 80, type: vmess, uuid: b55f241e-ae93-3b1f-b021-1a1e1cf07f06, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: ash.369777.xyz}}, udp: true}
-- {name: 🇱🇺 卢森堡专线-奈飞-TK - giao云, server: 91zx.ljydw.top, port: 25559, type: trojan, password: 5e618b5f-5adf-4c36-b6b5-8339834d65ff, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港专线1-奈飞-TK - giao云, server: zx.fr99kt.top, port: 12895, type: trojan, password: 5e618b5f-5adf-4c36-b6b5-8339834d65ff, sni: 98hk.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港专线2 - giao云, server: 91zx.ljydw.top, port: 21112, type: trojan, password: 5e618b5f-5adf-4c36-b6b5-8339834d65ff, sni: 910hk02.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港专线3 - giao云, server: 91zx.ljydw.top, port: 21115, type: trojan, password: 5e618b5f-5adf-4c36-b6b5-8339834d65ff, sni: 911hk3.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港1 - giao云, server: 822sg.ljydw.top, port: 443, type: trojan, password: 5e618b5f-5adf-4c36-b6b5-8339834d65ff, sni: 822sg.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港2 - giao云, server: 822sg2.ljydw.top, port: 443, type: trojan, password: 5e618b5f-5adf-4c36-b6b5-8339834d65ff, sni: 822sg2.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港3 - giao云, server: 822hk3.ljydw.top, port: 29312, type: trojan, password: 5e618b5f-5adf-4c36-b6b5-8339834d65ff, sni: 822hk3.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港5 - giao云, server: 822hk6.ljydw.top, port: 49139, type: trojan, password: 5e618b5f-5adf-4c36-b6b5-8339834d65ff, sni: 822hk6.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾专线-奈飞-TK-GPT - giao云, server: 91zx.ljydw.top, port: 25997, type: trojan, password: 5e618b5f-5adf-4c36-b6b5-8339834d65ff, sni: 915tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 44331, type: trojan, password: 5e618b5f-5adf-4c36-b6b5-8339834d65ff, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 5e618b5f-5adf-4c36-b6b5-8339834d65ff, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国专线1-奈飞-TK-HBO - giao云, server: 91zx.ljydw.top, port: 39999, type: trojan, password: 5e618b5f-5adf-4c36-b6b5-8339834d65ff, sni: 911us2.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 - giao云, server: 86us3.ljydw.top, port: 443, type: trojan, password: 5e618b5f-5adf-4c36-b6b5-8339834d65ff, sni: 86us3.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇱🇺 卢森堡专线-奈飞-TK - giao云, server: 91zx.ljydw.top, port: 25559, type: trojan, password: 5ae86996-5bef-4645-b796-c591d8a1b376, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港专线1-奈飞-TK - giao云, server: zx.fr99kt.top, port: 12895, type: trojan, password: 5ae86996-5bef-4645-b796-c591d8a1b376, sni: 98hk.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港专线2 - giao云, server: 91zx.ljydw.top, port: 21112, type: trojan, password: 5ae86996-5bef-4645-b796-c591d8a1b376, sni: 910hk02.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港专线3 - giao云, server: 91zx.ljydw.top, port: 21115, type: trojan, password: 5ae86996-5bef-4645-b796-c591d8a1b376, sni: 911hk3.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1 - giao云, server: 822sg.ljydw.top, port: 443, type: trojan, password: 5ae86996-5bef-4645-b796-c591d8a1b376, sni: 822sg.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2 - giao云, server: 822sg2.ljydw.top, port: 443, type: trojan, password: 5ae86996-5bef-4645-b796-c591d8a1b376, sni: 822sg2.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港3 - giao云, server: 822hk3.ljydw.top, port: 29312, type: trojan, password: 5ae86996-5bef-4645-b796-c591d8a1b376, sni: 822hk3.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港5 - giao云, server: 822hk6.ljydw.top, port: 49139, type: trojan, password: 5ae86996-5bef-4645-b796-c591d8a1b376, sni: 822hk6.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾专线-奈飞-TK-GPT - giao云, server: 91zx.ljydw.top, port: 25997, type: trojan, password: 5ae86996-5bef-4645-b796-c591d8a1b376, sni: 915tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 44331, type: trojan, password: 5ae86996-5bef-4645-b796-c591d8a1b376, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 5ae86996-5bef-4645-b796-c591d8a1b376, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国专线1-奈飞-TK-HBO - giao云, server: 91zx.ljydw.top, port: 39999, type: trojan, password: 5ae86996-5bef-4645-b796-c591d8a1b376, sni: 911us2.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 - giao云, server: 86us3.ljydw.top, port: 443, type: trojan, password: 5ae86996-5bef-4645-b796-c591d8a1b376, sni: 86us3.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 Vip1-7.广州1-日本A | 倍率x2 - 糖果, server: cngzm01.tangguo.pro, port: 6063, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇯🇵 Vip1-7.广州1-日本B | 倍率x2 - 糖果, server: cngzm01.tangguo.pro, port: 6064, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇯🇵 Vip1-8.南阳-日本A | 倍率x2 - 糖果, server: cnnym01.tangguo.pro, port: 31110, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇯🇵 Vip1-8.南阳-日本B | 倍率x2 - 糖果, server: cnnym01.tangguo.pro, port: 31122, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇯🇵 Vip2-4.广州2-日本A | 倍率x2 - 糖果, server: cngzm02.tangguo.pro, port: 51061, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇯🇵 Vip2-4.广州2-日本B | 倍率x2 - 糖果, server: cngzm02.tangguo.pro, port: 51062, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇯🇵 Vip2-4.扬州-日本A | 倍率x2 - 糖果, server: cnyzm01.tangguo.pro, port: 21090, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇯🇵 Vip2-4.扬州-日本B | 倍率x2 - 糖果, server: cnyzm01.tangguo.pro, port: 21049, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇯🇵 Vip2-4.扬州-日本C | 倍率x2 - 糖果, server: cnyzm01.tangguo.pro, port: 21051, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇯🇵 Vip2-4.扬州-日本D | 倍率x2 - 糖果, server: cnyzm01.tangguo.pro, port: 21052, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇯🇵 Vip2-4.江苏-日本A | 倍率x2 - 糖果, server: cnczu01.tangguo.pro, port: 21096, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇯🇵 Vip2-4.江苏-日本B | 倍率x2 - 糖果, server: cnczu01.tangguo.pro, port: 21102, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip1-1.广州1-香港A | 倍率x1 - 糖果, server: cngzm01.tangguo.pro, port: 6018, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip1-1.广州1-香港B | 倍率x1 - 糖果, server: cngzm01.tangguo.pro, port: 6016, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip1-1.广州1-香港C | 倍率x1 - 糖果, server: cngzm01.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip1-1.广州1-香港D | 倍率x1 - 糖果, server: cngzm01.tangguo.pro, port: 6046, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip1-2.南阳-香港A | 倍率x1 - 糖果, server: cnnym01.tangguo.pro, port: 31058, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip1-2.南阳-香港B | 倍率x1 - 糖果, server: cnnym01.tangguo.pro, port: 31065, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip1-2.南阳-香港C | 倍率x1 - 糖果, server: cnnym01.tangguo.pro, port: 31071, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip1-2.南阳-香港D | 倍率x1 - 糖果, server: cnnym01.tangguo.pro, port: 31093, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip2-0.广州2-香港A | 倍率x1 - 糖果, server: cngzm02.tangguo.pro, port: 51116, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip2-0.广州2-香港B | 倍率x1 - 糖果, server: cngzm02.tangguo.pro, port: 51109, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip2-0.广州2-香港C | 倍率x1 - 糖果, server: cngzm02.tangguo.pro, port: 51119, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip2-0.广州2-香港D | 倍率x1 - 糖果, server: cngzm02.tangguo.pro, port: 51120, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip2-1.佛山-香港A | 倍率x1 - 糖果, server: cnfsm01.tangguo.pro, port: 21077, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip2-1.佛山-香港B | 倍率x1 - 糖果, server: cnfsm01.tangguo.pro, port: 21078, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip2-1.扬州-香港A | 倍率x1 - 糖果, server: cnyzm01.tangguo.pro, port: 21047, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip2-1.扬州-香港B | 倍率x1 - 糖果, server: cnyzm01.tangguo.pro, port: 21048, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip2-1.扬州-香港C | 倍率x1 - 糖果, server: cnyzm01.tangguo.pro, port: 21082, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip2-1.扬州-香港D | 倍率x1 - 糖果, server: cnyzm01.tangguo.pro, port: 21083, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip2-2.江苏-香港A | 倍率x1 - 糖果, server: cnczu01.tangguo.pro, port: 21073, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip2-2.江苏-香港B | 倍率x1 - 糖果, server: cnczu01.tangguo.pro, port: 21108, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip2-2.江苏-香港C | 倍率x1 - 糖果, server: cnczu01.tangguo.pro, port: 21075, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇭🇰 Vip2-2.江苏-香港D | 倍率x1 - 糖果, server: cnczu01.tangguo.pro, port: 21070, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇹🇼 Vip1-5.广州1-台湾A | 倍率x2 - 糖果, server: cngzm01.tangguo.pro, port: 6030, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇹🇼 Vip1-5.广州1-台湾B | 倍率x2 - 糖果, server: cngzm01.tangguo.pro, port: 6044, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇹🇼 Vip1-6.南阳-台湾A | 倍率x2 - 糖果, server: cnnym01.tangguo.pro, port: 31097, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇹🇼 Vip1-6.南阳-台湾B | 倍率x2 - 糖果, server: cnnym01.tangguo.pro, port: 31099, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇹🇼 Vip2-3.广州2-台湾A | 倍率x2 - 糖果, server: cngzm02.tangguo.pro, port: 51091, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇹🇼 Vip2-3.广州2-台湾B | 倍率x2 - 糖果, server: cngzm02.tangguo.pro, port: 51106, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇹🇼 Vip2-3.扬州-台湾A | 倍率x2 - 糖果, server: cnyzm01.tangguo.pro, port: 21084, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇹🇼 Vip2-3.扬州-台湾B | 倍率x2 - 糖果, server: cnyzm01.tangguo.pro, port: 21089, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇹🇼 Vip2-6.专线.深台A1 | 倍率x5 - 糖果, server: cnipsz00.tangguo.pro, port: 21006, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇹🇼 Vip2-6.专线.深台A2 | 倍率x5 - 糖果, server: cnipsz00.tangguo.pro, port: 21007, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇹🇼 Vip2-6.专线.深台A3 | 倍率x5 - 糖果, server: cnipsz00.tangguo.pro, port: 21008, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇺🇸 Vip1-3.广州1-美国A | 倍率x2 - 糖果, server: cngzm01.tangguo.pro, port: 6026, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇺🇸 Vip1-3.广州1-美国B | 倍率x2 - 糖果, server: cngzm01.tangguo.pro, port: 6028, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇺🇸 Vip1-3.广州1-美国C | 倍率x2 - 糖果, server: cngzm01.tangguo.pro, port: 6050, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇺🇸 Vip1-4.南阳-美国A | 倍率x2 - 糖果, server: cnnym01.tangguo.pro, port: 31019, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇺🇸 Vip1-4.南阳-美国B | 倍率x2 - 糖果, server: cnnym01.tangguo.pro, port: 31020, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇺🇸 Vip1-4.南阳-美国C | 倍率x2 - 糖果, server: cnnym01.tangguo.pro, port: 31041, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇺🇸 Vip2-1.江苏-美国A | 倍率x2 - 糖果, server: cnczu01.tangguo.pro, port: 21057, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇺🇸 Vip2-1.江苏-美国B | 倍率x2 - 糖果, server: cnczu01.tangguo.pro, port: 21101, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇺🇸 Vip2-2.佛山-美国A | 倍率x2 - 糖果, server: cnfsm01.tangguo.pro, port: 21072, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇺🇸 Vip2-2.佛山-美国B | 倍率x2 - 糖果, server: cnfsm01.tangguo.pro, port: 21081, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇺🇸 Vip2-2.广州2-美国A | 倍率x2 - 糖果, server: cngzm02.tangguo.pro, port: 51117, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇺🇸 Vip2-2.广州2-美国B | 倍率x2 - 糖果, server: cngzm02.tangguo.pro, port: 51115, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇺🇸 Vip2-2.扬州-美国A | 倍率x2 - 糖果, server: cnyzm01.tangguo.pro, port: 21053, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 🇺🇸 Vip2-2.扬州-美国B | 倍率x2 - 糖果, server: cnyzm01.tangguo.pro, port: 21054, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128712:CjgF4K, obfs-param: '0128d128712.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 🇯🇵 【N】日本 普通 1 - Nerocloud - SockBoom, server: jp1.boom.skin, port: 30000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 898305:S6sm0Q, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇯🇵 【N】日本 普通 2 - Nerocloud - SockBoom, server: jp2.boom.skin, port: 31000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 898305:S6sm0Q, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇯🇵 【N】日本 普通 3 - Nerocloud - SockBoom, server: jp3.boom.skin, port: 32000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 898305:S6sm0Q, obfs-param: download.windowsupdate.com, udp: true}
