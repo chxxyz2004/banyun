@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.biyaoshidian.top, port: 5061, type: vmess, uuid: 9a6ed6dc-1d2d-36ad-ab9a-5b0bae200722, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.biyaoshidian.top, port: 5061, type: vmess, uuid: 210c5f16-2043-36e1-b28b-9ac13750b4e7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
