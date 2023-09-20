@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国专线1-奈飞-TK-HBO - giao云, server: 91zx.ljydw.top, port: 39999, client-fingerprint: chrome, type: trojan, password: 620b2422-d7a8-41e6-b2a1-c2e9b1ad64a1, tfo: false, sni: 911us2.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 - giao云, server: 86us3.ljydw.top, port: 443, client-fingerprint: chrome, type: trojan, password: 620b2422-d7a8-41e6-b2a1-c2e9b1ad64a1, tfo: false, sni: 86us3.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国专线1-奈飞-TK-HBO - giao云, server: 91zx.ljydw.top, port: 39999, type: trojan, password: 2a09d982-3339-4e85-9912-ca919323231b, sni: 911us2.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 - giao云, server: 86us3.ljydw.top, port: 443, type: trojan, password: 2a09d982-3339-4e85-9912-ca919323231b, sni: 86us3.ljydw.top, skip-cert-verify: true, udp: true}
