@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港01 - Cyanmori, server: hk1.susenl.com, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: kYuWkyniJgcvCTbg, udp: true}
-- {name: 🇭🇰 香港02 - Cyanmori, server: hk1.susenl.com, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: kYuWkyniJgcvCTbg, udp: true}
-- {name: 🇭🇰 香港03 - Cyanmori, server: hk1.susenl.com, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: kYuWkyniJgcvCTbg, udp: true}
-- {name: 🇭🇰 香港04 - Cyanmori, server: hk1.susenl.com, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: kYuWkyniJgcvCTbg, udp: true}
-- {name: 🇭🇰 香港05 - Cyanmori, server: hk1.susenl.com, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: kYuWkyniJgcvCTbg, udp: true}
-- {name: 🇭🇰 香港06 - Cyanmori, server: hk1.susenl.com, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: kYuWkyniJgcvCTbg, udp: true}
-- {name: 🇹🇼 台湾01 - Cyanmori, server: hk1.susenl.com, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: kYuWkyniJgcvCTbg, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: hk1.susenl.com, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: kYuWkyniJgcvCTbg, udp: true}
+- {name: 🇭🇰 香港01 - Cyanmori, server: hk1.susenl.com, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: NpmtAXN0h83fHEzf, udp: true}
+- {name: 🇭🇰 香港02 - Cyanmori, server: hk1.susenl.com, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: NpmtAXN0h83fHEzf, udp: true}
+- {name: 🇭🇰 香港03 - Cyanmori, server: hk1.susenl.com, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: NpmtAXN0h83fHEzf, udp: true}
+- {name: 🇭🇰 香港04 - Cyanmori, server: hk1.susenl.com, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: NpmtAXN0h83fHEzf, udp: true}
+- {name: 🇭🇰 香港05 - Cyanmori, server: hk1.susenl.com, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: NpmtAXN0h83fHEzf, udp: true}
+- {name: 🇭🇰 香港06 - Cyanmori, server: hk1.susenl.com, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: NpmtAXN0h83fHEzf, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: hk1.susenl.com, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: NpmtAXN0h83fHEzf, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: hk1.susenl.com, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: NpmtAXN0h83fHEzf, udp: true}
 - {name: 🇹🇼 台湾专线-奈飞-TK-GPT - giao云, server: 91zx.ljydw.top, port: 25997, type: trojan, password: e3d6c457-dcf2-431f-8508-d0b9dc61f5f3, sni: 915tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港专线1-奈飞-TK - giao云, server: zx.fr99kt.top, port: 12895, type: trojan, password: e3d6c457-dcf2-431f-8508-d0b9dc61f5f3, sni: 98hk.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港专线2 - giao云, server: 91zx.ljydw.top, port: 21112, type: trojan, password: e3d6c457-dcf2-431f-8508-d0b9dc61f5f3, sni: 910hk02.ljydw.top, skip-cert-verify: true, udp: true}
@@ -117,13 +117,13 @@ proxies:
 - {name: 🇹🇼 vip1 台湾-05_1 - FastFly, server: gzdx01.jcnode.top, port: 28033, type: trojan, password: fdb0ef08-ba3e-459b-8314-6111e69e3cc2, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip1 台湾-06 - FastFly, server: gzyd.jcnode.top, port: 53826, type: trojan, password: fdb0ef08-ba3e-459b-8314-6111e69e3cc2, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰香港-中转A - 青花瓷云qhcy.cc, server: lt.q5wrf7jtkd23.top, port: 40311, type: ss, cipher: chacha20-ietf-poly1305, password: 7c7c8438-62ce-460b-a920-b692165292c5, udp: true}
-- {name: 🇭🇰 aga香港游戏节点 - cloudtu, server: yt201.jdxx1.com, port: 16385, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 8234:VMsTa3, obfs-param: 0c3f38234.download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 HKT解锁 - cloudtu, server: yt201.jdxx1.com, port: 16390, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 8234:VMsTa3, obfs-param: 0c3f38234.download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 香港HKT转移动G口1 - cloudtu, server: yt201.jdxx1.com, port: 15886, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 8234:VMsTa3, obfs-param: 0c3f38234.download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 香港HKT转移动G口2 - cloudtu, server: yt201.jdxx1.com, port: 15887, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 8234:VMsTa3, obfs-param: 0c3f38234.download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 香港HKT转移动G口3 - cloudtu, server: yt201.jdxx1.com, port: 15888, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 8234:VMsTa3, obfs-param: 0c3f38234.download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 香港HKT转移动G口4 - cloudtu, server: yt201.jdxx.xyz, port: 15889, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 8234:VMsTa3, obfs-param: 0c3f38234.download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 香港HKT转移动G口5 - cloudtu, server: yt201.jdxx1.com, port: 15890, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 8234:VMsTa3, obfs-param: 0c3f38234.download.windowsupdate.com, udp: true}
+- {name: 🇭🇰 aga香港游戏节点 - cloudtu, server: yt201.jdxx1.com, port: 16385, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 8240:7l5x4d, obfs-param: b84cc8240.download.windowsupdate.com, udp: true}
+- {name: 🇭🇰 HKT解锁 - cloudtu, server: yt201.jdxx1.com, port: 16390, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 8240:7l5x4d, obfs-param: b84cc8240.download.windowsupdate.com, udp: true}
+- {name: 🇭🇰 香港HKT转移动G口1 - cloudtu, server: yt201.jdxx1.com, port: 15886, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 8240:7l5x4d, obfs-param: b84cc8240.download.windowsupdate.com, udp: true}
+- {name: 🇭🇰 香港HKT转移动G口2 - cloudtu, server: yt201.jdxx1.com, port: 15887, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 8240:7l5x4d, obfs-param: b84cc8240.download.windowsupdate.com, udp: true}
+- {name: 🇭🇰 香港HKT转移动G口3 - cloudtu, server: yt201.jdxx1.com, port: 15888, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 8240:7l5x4d, obfs-param: b84cc8240.download.windowsupdate.com, udp: true}
+- {name: 🇭🇰 香港HKT转移动G口4 - cloudtu, server: yt201.jdxx.xyz, port: 15889, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 8240:7l5x4d, obfs-param: b84cc8240.download.windowsupdate.com, udp: true}
+- {name: 🇭🇰 香港HKT转移动G口5 - cloudtu, server: yt201.jdxx1.com, port: 15890, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 8240:7l5x4d, obfs-param: b84cc8240.download.windowsupdate.com, udp: true}
 - {name: 🇭🇰 JCBB_香港01【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 41390, type: trojan, password: 635cf0f6-b07d-4356-b7d0-b23a8094854b, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 47321, type: trojan, password: 635cf0f6-b07d-4356-b7d0-b23a8094854b, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港03_1【vip1】 - JCBB, server: gzyd.jcnode.top, port: 49486, type: trojan, password: 635cf0f6-b07d-4356-b7d0-b23a8094854b, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
