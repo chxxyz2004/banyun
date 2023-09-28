@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: jp1.susenl.com, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: tVrW7TmdusELYjle, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: jp1.susenl.com, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: tVrW7TmdusELYjle, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: jp1.susenl.com, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: tVrW7TmdusELYjle, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: jp1.susenl.com, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: tVrW7TmdusELYjle, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: jp1.susenl.com, port: 10044, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 1hgSGm52TIltTmm3, tfo: false, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: jp1.susenl.com, port: 10045, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 1hgSGm52TIltTmm3, tfo: false, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: jp1.susenl.com, port: 10046, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 1hgSGm52TIltTmm3, tfo: false, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: jp1.susenl.com, port: 10068, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 1hgSGm52TIltTmm3, tfo: false, udp: true}
 - {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: gzdx.jcnode.top, port: 29482, type: trojan, password: fdb0ef08-ba3e-459b-8314-6111e69e3cc2, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-01_1 - FastFly, server: gzdx01.jcnode.top, port: 34472, type: trojan, password: fdb0ef08-ba3e-459b-8314-6111e69e3cc2, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: gzyd.jcnode.top, port: 52702, type: trojan, password: fdb0ef08-ba3e-459b-8314-6111e69e3cc2, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
