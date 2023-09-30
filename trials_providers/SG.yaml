@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: jp1.susenl.com, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: 54D09oLeEds93wLo, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: jp1.susenl.com, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: 54D09oLeEds93wLo, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: jp1.susenl.com, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: 54D09oLeEds93wLo, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: jp1.susenl.com, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: 54D09oLeEds93wLo, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: jp1.susenl.com, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: C3Z1gmzKX5KoEwWk, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: jp1.susenl.com, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: C3Z1gmzKX5KoEwWk, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: jp1.susenl.com, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: C3Z1gmzKX5KoEwWk, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: jp1.susenl.com, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: C3Z1gmzKX5KoEwWk, udp: true}
 - {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: gzdx.jcnode.top, port: 29482, type: trojan, password: fdb0ef08-ba3e-459b-8314-6111e69e3cc2, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-01_1 - FastFly, server: gzdx01.jcnode.top, port: 34472, type: trojan, password: fdb0ef08-ba3e-459b-8314-6111e69e3cc2, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: gzyd.jcnode.top, port: 52702, type: trojan, password: fdb0ef08-ba3e-459b-8314-6111e69e3cc2, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -48,12 +48,12 @@ proxies:
 - {name: VIP|新加坡🇸🇬04-5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32324, type: vmess, uuid: ebea4d4e-a761-4b07-ba75-96b9404cece8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: VIP|新加坡🇸🇬05-5Gbps - 探索者, server: 603diya.donghui.tech, port: 34659, type: vmess, uuid: ebea4d4e-a761-4b07-ba75-96b9404cece8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: VIP|新加坡🇸🇬06-5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32325, type: vmess, uuid: ebea4d4e-a761-4b07-ba75-96b9404cece8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19841, type: vmess, uuid: 0a329d81-9dfa-3572-92e1-6fb137303bc9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19842, type: vmess, uuid: 0a329d81-9dfa-3572-92e1-6fb137303bc9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 1f4f0493-f022-3704-b501-9a4e0b5d3e00, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
-- {name: 🇸🇬 新加坡 A - V2Link, server: host-031.crazyspeed.xyz, port: 10351, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 59e9c1ad-18c1-4fac-85ba-3402d57d326c, tfo: false, udp: true}
-- {name: 🇸🇬 新加坡 B - V2Link, server: host-032.crazyspeed.xyz, port: 10352, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 59e9c1ad-18c1-4fac-85ba-3402d57d326c, tfo: false, udp: true}
-- {name: 🇸🇬 新加坡 C - V2Link, server: host-033.crazyspeed.xyz, port: 10353, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 59e9c1ad-18c1-4fac-85ba-3402d57d326c, tfo: false, udp: true}
+- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19841, type: vmess, uuid: ec1e0e91-6b13-3d0e-bda0-534f89ae22ed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19842, type: vmess, uuid: ec1e0e91-6b13-3d0e-bda0-534f89ae22ed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 7d5b1209-b1a3-3d5a-83b5-52e7577ba81b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
+- {name: 🇸🇬 新加坡 A - V2Link, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: 59e9c1ad-18c1-4fac-85ba-3402d57d326c, udp: true}
+- {name: 🇸🇬 新加坡 B - V2Link, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: 59e9c1ad-18c1-4fac-85ba-3402d57d326c, udp: true}
+- {name: 🇸🇬 新加坡 C - V2Link, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: 59e9c1ad-18c1-4fac-85ba-3402d57d326c, udp: true}
 - {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 10443, type: trojan, password: 50847c32-9158-3d4d-853c-60342f6cbeba, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 新加坡 102 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 20443, type: trojan, password: 50847c32-9158-3d4d-853c-60342f6cbeba, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 新加坡 103 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 30443, type: trojan, password: 50847c32-9158-3d4d-853c-60342f6cbeba, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
