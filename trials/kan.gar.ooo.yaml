@@ -12,9 +12,11 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 🇹🇼 ‍台湾
   - 🇯🇵 ‍日本
+  - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -29,6 +31,7 @@ proxy-groups:
   - 🇯🇵 Oracle-JP4-20220517 - Kangaroo✦Network
   - 🇯🇵 Oracle-JP5-20220517 - Kangaroo✦Network
   - 🇯🇵 Oracle-JP6-20221223 - Kangaroo✦Network
+  - 🇦🇺 GCP-AU1-20230930 - Kangaroo✦Network
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -52,6 +55,8 @@ proxy-groups:
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
+  - 🎏 ‍其他
+  - 👆🏻🎏 ‍其他
   - 🇹🇼 ‍台湾
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
@@ -84,6 +89,13 @@ proxy-groups:
   - 🇯🇵 Oracle-JP4-20220517 - Kangaroo✦Network
   - 🇯🇵 Oracle-JP5-20220517 - Kangaroo✦Network
   - 🇯🇵 Oracle-JP6-20221223 - Kangaroo✦Network
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id004
+  - 🇦🇺 GCP-AU1-20230930 - Kangaroo✦Network
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -93,7 +105,11 @@ proxy-groups:
 - name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id003
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id004
 proxies:
+- {name: 🇦🇺 GCP-AU1-20230930 - Kangaroo✦Network, server: au1.pay.edu.kg, port: 443, type: vmess, uuid: 37c66bec-61a4-41b7-8fdd-b0b708dfd8f3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.pay.edu.kg}}, udp: true}
 - {name: 🇹🇼 GCP-TW1-20230930 - Kangaroo✦Network, server: tw1.pay.edu.kg, port: 443, type: vmess, uuid: 37c66bec-61a4-41b7-8fdd-b0b708dfd8f3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.pay.edu.kg}}, udp: true}
 - {name: 🇹🇼 GCP-TW2-20230930 - Kangaroo✦Network, server: tw2.pay.edu.kg, port: 443, type: vmess, uuid: 37c66bec-61a4-41b7-8fdd-b0b708dfd8f3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.pay.edu.kg}}, udp: true}
 - {name: 🇹🇼 GCP-TW3-20230930 - Kangaroo✦Network, server: tw3.pay.edu.kg, port: 443, type: vmess, uuid: 37c66bec-61a4-41b7-8fdd-b0b708dfd8f3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.pay.edu.kg}}, udp: true}
