@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 Ali2 *3 - 独孤乐天, server: nhk-2.biyaoshidian.top, port: 443, type: vmess, uuid: 1b065328-a0fb-3f04-adbc-950c1a88e1d3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.anewstart.cyou}}, udp: true}
-- {name: 🇭🇰 香港 Ali3 *3 - 独孤乐天, server: nhk-3.biyaoshidian.top, port: 5062, type: vmess, uuid: 1b065328-a0fb-3f04-adbc-950c1a88e1d3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 Ali6 *3 - 独孤乐天, server: nhk-6.biyaoshidian.top, port: 5061, type: vmess, uuid: 1b065328-a0fb-3f04-adbc-950c1a88e1d3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 Ali2 *3 - 独孤乐天, server: nhk-2.biyaoshidian.top, port: 443, type: vmess, uuid: 2ba74361-0ead-3cff-9243-187b995ae16d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.anewstart.cyou}}, udp: true}
+- {name: 🇭🇰 香港 Ali3 *3 - 独孤乐天, server: nhk-3.biyaoshidian.top, port: 5062, type: vmess, uuid: 2ba74361-0ead-3cff-9243-187b995ae16d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 Ali6 *3 - 独孤乐天, server: nhk-6.biyaoshidian.top, port: 5061, type: vmess, uuid: 2ba74361-0ead-3cff-9243-187b995ae16d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
