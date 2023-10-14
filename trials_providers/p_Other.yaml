@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 882a274d-abed-3b2b-9abd-87c6b216bcc7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 882a274d-abed-3b2b-9abd-87c6b216bcc7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: f36a0e9e-414b-3c59-b1c6-c5bd1ea235b3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: f36a0e9e-414b-3c59-b1c6-c5bd1ea235b3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：8 天 - FastFly, server: gzdx.jcnode.top, port: 29482, type: trojan, password: fdb0ef08-ba3e-459b-8314-6111e69e3cc2, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 29482, type: trojan, password: fdb0ef08-ba3e-459b-8314-6111e69e3cc2, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：20 天 - 老猫云, server: cn1.laomao2.xyz, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
