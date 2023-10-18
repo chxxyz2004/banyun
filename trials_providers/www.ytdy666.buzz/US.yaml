@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 AZ美国隧道转移动3 - cloudtu, server: yt201.jdxx1.com, port: 16488, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 8522:GsadkH, obfs-param: 50bb08522.download.windowsupdate.com, udp: true}
+- {name: 🇺🇸 AZ美国隧道转移动3 - cloudtu, server: yt201.jdxx1.com, port: 16488, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 8525:mPaRTV, obfs-param: f4d8f8525.download.windowsupdate.com, udp: true}
