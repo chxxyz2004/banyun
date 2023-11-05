@@ -1,30 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 双11疯狂购物季，全场5折！2023年11月4日-2023年11月11日 - V2Link, server: free.v2aff.link, port: 2053, type: vmess, uuid: 5147011e-6964-496e-a620-4896f4c4d608, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2dassa, headers: {Host: free.v2aff.link}}, udp: true}
-- {name: 🇰🇷 韩国 01 - V2Link, server: host-026.crazyspeed.xyz, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇰🇷 韩国 02 - V2Link, server: host-027.crazyspeed.xyz, port: 21007, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇰🇷 韩国 03 - V2Link, server: host-028.crazyspeed.xyz, port: 21008, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇮🇩 雅加达 - V2Link, server: host-034.crazyspeed.xyz, port: 10354, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇲🇾 马来西亚 - V2Link, server: host-035.crazyspeed.xyz, port: 10355, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇨🇦 加拿大 - V2Link, server: host-041.crazyspeed.xyz, port: 16015, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇬🇧 英国 01 - V2Link, server: host-043.crazyspeed.xyz, port: 34401, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇬🇧 英国 02 - V2Link, server: host-044.crazyspeed.xyz, port: 34402, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇩🇪 德国 01 - V2Link, server: host-045.crazyspeed.xyz, port: 34901, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇩🇪 德国 02 - V2Link, server: host-046.crazyspeed.xyz, port: 34902, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇫🇷 法国 - V2Link, server: host-047.crazyspeed.xyz, port: 34903, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇮🇹 意大利 - V2Link, server: host-048.crazyspeed.xyz, port: 34904, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇪🇸 西班牙 - V2Link, server: host-049.crazyspeed.xyz, port: 34905, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇳🇱 荷兰 - V2Link, server: host-050.crazyspeed.xyz, port: 34906, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇦🇺 澳洲 - V2Link, server: host-051.crazyspeed.xyz, port: 20061, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇧🇷 巴西 - V2Link, server: host-052.crazyspeed.xyz, port: 20062, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇮🇳 印度 - V2Link, server: host-053.crazyspeed.xyz, port: 10911, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇦🇪 迪拜 - V2Link, server: host-054.crazyspeed.xyz, port: 20071, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇹🇷 土耳其 - V2Link, server: host-055.crazyspeed.xyz, port: 19001, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇵🇰 巴基斯坦 - V2Link, server: host-056.crazyspeed.xyz, port: 19002, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇦🇷 阿根廷 - V2Link, server: host-057.crazyspeed.xyz, port: 19003, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇮🇱 以色列 - V2Link, server: host-058.crazyspeed.xyz, port: 19005, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
-- {name: 🇸🇪 瑞典 - V2Link, server: host-059.crazyspeed.xyz, port: 19006, type: ss, cipher: chacha20-ietf-poly1305, password: 5147011e-6964-496e-a620-4896f4c4d608, udp: true}
 - {name: 域名被屏蔽，先连节点再访问 - giao云, server: 8.8.8.8, port: 22266, type: ss, cipher: chacha20-ietf-poly1305, password: e3d6c457-dcf2-431f-8508-d0b9dc61f5f3, udp: true}
 - {name: 🇱🇺 卢森堡专线-奈飞-TK - giao云, server: 91zx.ljydw.top, port: 25559, type: trojan, password: e3d6c457-dcf2-431f-8508-d0b9dc61f5f3, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.v2-ray.cyou, port: 23616, type: vmess, uuid: 02c80321-4576-3fe1-903a-ae6efcc0cd62, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.v2-ray.cyou}}, udp: true}
@@ -74,7 +50,7 @@ proxies:
 - {name: 🇩🇰 Video 丹麦 A-原生 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 39201, type: ss, cipher: aes-128-gcm, password: 'dadk2jat*/?', plugin: obfs, plugin-opts: {mode: http, host: 1d29584728.download.windowsupdate.com}, udp: true}
 - {name: 🇧🇷 Video 巴西 A-标准 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 2789, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 1d29584728.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇷 Video 土耳其 A-通用 - AyucLouD-Services, server: 231103levelx.unclemanco.com, port: 3033, type: ss, cipher: aes-128-gcm, password: ayugfsd, plugin: obfs, plugin-opts: {mode: http, host: 1d29584728.download.windowsupdate.com}, udp: true}
-- {name: 🇷🇺 Video 俄罗斯 A-标准 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 1549, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 1d29584728.download.windowsupdate.com}, udp: true}
+- {name: 🇷🇺 Video 俄罗斯 A-标准 - AyucLouD-Services, server: 231103levelx.unclemanco.com, port: 1549, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 1d29584728.download.windowsupdate.com}, udp: true}
 - {name: 🇦🇷 Video 阿根廷 A-原生 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 6041, type: ss, cipher: aes-128-gcm, password: ayds232sffssd1, plugin: obfs, plugin-opts: {mode: http, host: 1d29584728.download.windowsupdate.com}, udp: true}
 - {name: 🇵🇭 Video 菲律宾 A-原生 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 44444, type: ss, cipher: aes-128-gcm, password: ayds232sffssd1, plugin: obfs, plugin-opts: {mode: http, host: 1d29584728.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇺 Video 匈牙利 A-原生 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 38011, type: ss, cipher: aes-128-gcm, password: 'dajkdr&dja*/?', plugin: obfs, plugin-opts: {mode: http, host: 1d29584728.download.windowsupdate.com}, udp: true}
@@ -160,18 +136,18 @@ proxies:
 - {name: 🇩🇪 德国｜隧道 01 - 爱猫论坛, server: sahng5.594888.xyz, port: 36016, type: vmess, uuid: 0391d4f2-d55b-3aa0-aa6a-3c3e30fc5074, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国｜隧道 01 - 爱猫论坛, server: sahng1.594888.xyz, port: 36017, type: vmess, uuid: 0391d4f2-d55b-3aa0-aa6a-3c3e30fc5074, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 韩国 首尔｜隧道 01 - 爱猫论坛, server: sahng6.594888.xyz, port: 36012, type: vmess, uuid: 0391d4f2-d55b-3aa0-aa6a-3c3e30fc5074, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇲🇳 【I】蒙古 普通 A - MN - SockBoom, server: n170.boom.skin, port: 33000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 953567:MEHlr8, obfs-param: download.windowsupdate.com, udp: true}
+- {name: 🇲🇳 【I】蒙古 普通 A - MN - SockBoom, server: n170.boom.skin, port: 33000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 954404:Gg3yOx, obfs-param: download.windowsupdate.com, udp: true}
 - {name: tg频道:@kkyun_proxy - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 5dc1bc30-d125-42f2-96c5-b7a473e64478, udp: true}
-- {name: 🇷🇺 俄罗斯 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: 38ecf661-e7fd-3a4f-88ee-fe2021a28a33, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇫🇷 法国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19892, type: vmess, uuid: 38ecf661-e7fd-3a4f-88ee-fe2021a28a33, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19893, type: vmess, uuid: 38ecf661-e7fd-3a4f-88ee-fe2021a28a33, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇳🇱 荷兰 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19895, type: vmess, uuid: 38ecf661-e7fd-3a4f-88ee-fe2021a28a33, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19891, type: vmess, uuid: 38ecf661-e7fd-3a4f-88ee-fe2021a28a33, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19883, type: vmess, uuid: 38ecf661-e7fd-3a4f-88ee-fe2021a28a33, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇭 泰国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19884, type: vmess, uuid: 38ecf661-e7fd-3a4f-88ee-fe2021a28a33, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19885, type: vmess, uuid: 38ecf661-e7fd-3a4f-88ee-fe2021a28a33, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19882, type: vmess, uuid: 38ecf661-e7fd-3a4f-88ee-fe2021a28a33, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 土耳其 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19881, type: vmess, uuid: 38ecf661-e7fd-3a4f-88ee-fe2021a28a33, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇷🇺 俄罗斯 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: ac48bc89-6798-38cf-a5e4-2274b2d566c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇫🇷 法国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19892, type: vmess, uuid: ac48bc89-6798-38cf-a5e4-2274b2d566c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19893, type: vmess, uuid: ac48bc89-6798-38cf-a5e4-2274b2d566c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇳🇱 荷兰 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19895, type: vmess, uuid: ac48bc89-6798-38cf-a5e4-2274b2d566c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19891, type: vmess, uuid: ac48bc89-6798-38cf-a5e4-2274b2d566c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19883, type: vmess, uuid: ac48bc89-6798-38cf-a5e4-2274b2d566c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇭 泰国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19884, type: vmess, uuid: ac48bc89-6798-38cf-a5e4-2274b2d566c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19885, type: vmess, uuid: ac48bc89-6798-38cf-a5e4-2274b2d566c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19882, type: vmess, uuid: ac48bc89-6798-38cf-a5e4-2274b2d566c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 土耳其 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19881, type: vmess, uuid: ac48bc89-6798-38cf-a5e4-2274b2d566c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: 13a771e8-cc88-4fa5-b123-342c6f38f713, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 31001, type: ss, cipher: chacha20-ietf-poly1305, password: 6c4f16f6-c6ee-4ca9-8807-4c6f82e4b77f, udp: true}
 - {name: 🇻🇳 vip1 越南-01 - FastFly, server: gzdx.jcnode.top, port: 39191, type: trojan, password: fdb0ef08-ba3e-459b-8314-6111e69e3cc2, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
