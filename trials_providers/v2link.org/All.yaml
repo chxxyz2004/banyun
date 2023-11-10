@@ -54,3 +54,4 @@ proxies:
 - {name: 🇦🇷 阿根廷 - V2Link, server: host-057.crazyspeed.xyz, port: 19003, type: ss, cipher: chacha20-ietf-poly1305, password: c00c622b-27a8-4754-b222-33bedea0f6da, udp: true}
 - {name: 🇮🇱 以色列 - V2Link, server: host-058.crazyspeed.xyz, port: 19005, type: ss, cipher: chacha20-ietf-poly1305, password: c00c622b-27a8-4754-b222-33bedea0f6da, udp: true}
 - {name: 🇸🇪 瑞典 - V2Link, server: host-059.crazyspeed.xyz, port: 19006, type: ss, cipher: chacha20-ietf-poly1305, password: c00c622b-27a8-4754-b222-33bedea0f6da, udp: true}
+- {name: 🇵🇱 波兰 - V2Link, server: host-060.crazyspeed.xyz, port: 19008, type: ss, cipher: chacha20-ietf-poly1305, password: c00c622b-27a8-4754-b222-33bedea0f6da, udp: true}
