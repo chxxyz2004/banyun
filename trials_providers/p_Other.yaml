@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 旧网址giaoyun.xyz（挂梯访问） - giao云, server: 8.8.8.8, port: 22266, type: ss, cipher: chacha20-ietf-poly1305, password: 5e614519-be1f-43d6-8bf3-e37eacd539ef, udp: true}
-- {name: 最新网址ww1.giaoyun.xyz（正常访问） - giao云, server: 9.9.9.9, port: 25252, type: ss, cipher: chacha20-ietf-poly1305, password: 5e614519-be1f-43d6-8bf3-e37eacd539ef, udp: true}
-- {name: 备用网址ww2.giaoyun.xyz（未启用） - giao云, server: 9.9.9.9, port: 34430, type: ss, cipher: chacha20-ietf-poly1305, password: 5e614519-be1f-43d6-8bf3-e37eacd539ef, udp: true}
+- {name: 旧网址giaoyun.xyz（挂梯访问） - giao云, server: 8.8.8.8, port: 22266, type: ss, cipher: chacha20-ietf-poly1305, password: e11c58f6-23d9-4855-843a-eb1b08ab10c8, udp: true}
+- {name: 最新网址ww1.giaoyun.xyz（正常访问） - giao云, server: 9.9.9.9, port: 25252, type: ss, cipher: chacha20-ietf-poly1305, password: e11c58f6-23d9-4855-843a-eb1b08ab10c8, udp: true}
+- {name: 备用网址ww2.giaoyun.xyz（未启用） - giao云, server: 9.9.9.9, port: 34430, type: ss, cipher: chacha20-ietf-poly1305, password: e11c58f6-23d9-4855-843a-eb1b08ab10c8, udp: true}
 - {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 131803:5LK70H, obfs-param: '280bf131803.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 距离下次重置剩余：12 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: ac34d59e-a405-4172-9360-aeb15316873b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
 - {name: 官网 https://1100.gg（非节点） - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: e5f220c6-6c29-34b7-be66-19c3cbbe07b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
