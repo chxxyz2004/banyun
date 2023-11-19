@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港隧道1-NF-TK-GPT - giao云, server: gd1.76po.com, port: 35359, type: trojan, password: cf41e82f-a161-4fab-ba39-165a00f761cb, sni: 1007hk1.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港隧道2-NF-TK-GPT - giao云, server: js2.76po.com, port: 36368, type: trojan, password: cf41e82f-a161-4fab-ba39-165a00f761cb, sni: 1007hk2.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港隧道3-NF-TK-GPT - giao云, server: 1.76po.com, port: 36251, type: trojan, password: cf41e82f-a161-4fab-ba39-165a00f761cb, sni: 1007hk3.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港隧道1-NF-TK-GPT - giao云, server: gd1.76po.com, port: 35359, type: trojan, password: f6ccc389-2290-4e0d-9213-bf7c5c0a907b, sni: 1007hk1.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港隧道2-NF-TK-GPT - giao云, server: js2.76po.com, port: 36368, type: trojan, password: f6ccc389-2290-4e0d-9213-bf7c5c0a907b, sni: 1007hk2.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港隧道3-NF-TK-GPT - giao云, server: 1.76po.com, port: 36251, type: trojan, password: f6ccc389-2290-4e0d-9213-bf7c5c0a907b, sni: 1007hk3.ljydw.top, skip-cert-verify: true, udp: true}
