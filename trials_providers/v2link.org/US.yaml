@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 01 - V2Link, server: host-036.crazyspeed.xyz, port: 16010, type: ss, cipher: chacha20-ietf-poly1305, password: 239dec3b-ec7c-4019-a3d3-c7844faf0a5d, udp: true}
-- {name: 🇺🇸 美国 02 - V2Link, server: host-037.crazyspeed.xyz, port: 16011, type: ss, cipher: chacha20-ietf-poly1305, password: 239dec3b-ec7c-4019-a3d3-c7844faf0a5d, udp: true}
-- {name: 🇺🇸 美国 03 - V2Link, server: host-038.crazyspeed.xyz, port: 16012, type: ss, cipher: chacha20-ietf-poly1305, password: 239dec3b-ec7c-4019-a3d3-c7844faf0a5d, udp: true}
-- {name: 🇺🇸 美国 04 - V2Link, server: host-039.crazyspeed.xyz, port: 16013, type: ss, cipher: chacha20-ietf-poly1305, password: 239dec3b-ec7c-4019-a3d3-c7844faf0a5d, udp: true}
-- {name: 🇺🇸 美国 05 - V2Link, server: host-040.crazyspeed.xyz, port: 16014, type: ss, cipher: chacha20-ietf-poly1305, password: 239dec3b-ec7c-4019-a3d3-c7844faf0a5d, udp: true}
+- {name: 🇺🇸 美国 01 - V2Link, server: host-036.crazyspeed.xyz, port: 16010, type: ss, cipher: chacha20-ietf-poly1305, password: 94148bc2-7180-4c60-a3e9-3e6f61c6da50, udp: true}
+- {name: 🇺🇸 美国 02 - V2Link, server: host-037.crazyspeed.xyz, port: 16011, type: ss, cipher: chacha20-ietf-poly1305, password: 94148bc2-7180-4c60-a3e9-3e6f61c6da50, udp: true}
+- {name: 🇺🇸 美国 03 - V2Link, server: host-038.crazyspeed.xyz, port: 16012, type: ss, cipher: chacha20-ietf-poly1305, password: 94148bc2-7180-4c60-a3e9-3e6f61c6da50, udp: true}
+- {name: 🇺🇸 美国 04 - V2Link, server: host-039.crazyspeed.xyz, port: 16013, type: ss, cipher: chacha20-ietf-poly1305, password: 94148bc2-7180-4c60-a3e9-3e6f61c6da50, udp: true}
+- {name: 🇺🇸 美国 05 - V2Link, server: host-040.crazyspeed.xyz, port: 16014, type: ss, cipher: chacha20-ietf-poly1305, password: 94148bc2-7180-4c60-a3e9-3e6f61c6da50, udp: true}
