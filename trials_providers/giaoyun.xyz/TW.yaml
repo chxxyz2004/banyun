@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾隧道-NF-TK-GPT - giao云, server: shcm.motions.top, port: 10089, type: trojan, password: f51ce410-02a9-475f-881b-19428adb5113, sni: 915tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾隧道2-NF-TK-GPT - giao云, server: js2.76po.com, port: 26892, type: trojan, password: f51ce410-02a9-475f-881b-19428adb5113, sni: 1024tw5.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾隧道3-NF-TK-GPT - giao云, server: hz.888898.beauty, port: 36251, type: trojan, password: f51ce410-02a9-475f-881b-19428adb5113, sni: 1028tw99.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾隧道-NF-TK-GPT - giao云, server: shcm.motions.top, port: 10089, type: trojan, password: e5faedc4-e1a2-4f1c-83a5-432687fcc114, sni: 915tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾隧道2-NF-TK-GPT - giao云, server: js2.76po.com, port: 26892, type: trojan, password: e5faedc4-e1a2-4f1c-83a5-432687fcc114, sni: 1024tw5.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾隧道3-NF-TK-GPT - giao云, server: hz.888898.beauty, port: 36251, type: trojan, password: e5faedc4-e1a2-4f1c-83a5-432687fcc114, sni: 1028tw99.ljydw.top, skip-cert-verify: true, udp: true}
