@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇱🇦 请登录laomao.biz 续费 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 457d840f-ade4-4b37-bd50-3d244f134fe5, udp: true}
+- {name: 🇱🇦 请登录laomao.biz 续费 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 6f8a3183-52b8-4715-8192-51af7ad77f8c, udp: true}
