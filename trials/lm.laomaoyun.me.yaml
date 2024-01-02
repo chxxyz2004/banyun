@@ -53,7 +53,7 @@ proxy-groups:
   type: select
   proxies: *id001
 proxies:
-- {name: 🇱🇦 请登录https://laomaoyun.net 续费 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 91975464-e171-421c-bde2-ae7f9287023a, udp: true}
+- {name: 🇱🇦 请登录https://laomaoyun.net 续费 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 6aa0a643-e4fe-4e37-abf0-0cca073921ea, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
