@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 合作or问题请发工单，三小时处理一次 - giao云, server: 9.9.9.9, port: 33335, type: ss, cipher: chacha20-ietf-poly1305, password: e26e9863-ab0b-4586-a134-d0f9f652e370, udp: true}
-- {name: 🇱🇺 卢森堡隧道-NF-TK-GPT - giao云, server: 119.96.208.3, port: 10089, type: trojan, password: e26e9863-ab0b-4586-a134-d0f9f652e370, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 合作or问题请发工单，三小时处理一次 - giao云, server: 9.9.9.9, port: 33335, type: ss, cipher: chacha20-ietf-poly1305, password: 6e29f851-290c-4bc2-89cf-83f9828ae879, udp: true}
+- {name: 🇱🇺 卢森堡隧道-NF-TK-GPT - giao云, server: 119.96.208.3, port: 10089, type: trojan, password: 6e29f851-290c-4bc2-89cf-83f9828ae879, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
