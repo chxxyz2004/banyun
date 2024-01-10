@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾隧道1-NF-TK-GPT - giao云, server: 119.96.208.3, port: 25987, type: ss, cipher: aes-256-gcm, password: 08fd9d39-8831-4228-b4a9-6ccdfdcbd88d, udp: true}
-- {name: 🇹🇼 台湾隧道2-NF-TK-GPT - giao云, server: 119.96.208.3, port: 26892, type: trojan, password: 08fd9d39-8831-4228-b4a9-6ccdfdcbd88d, sni: 1024tw5.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾隧道3-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 36251, type: trojan, password: 08fd9d39-8831-4228-b4a9-6ccdfdcbd88d, sni: 1028tw99.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾隧道1-NF-TK-GPT - giao云, server: 119.96.208.3, port: 25987, type: ss, cipher: aes-256-gcm, password: 73490491-137e-425b-81a0-efde4a630aed, udp: true}
+- {name: 🇹🇼 台湾隧道2-NF-TK-GPT - giao云, server: 119.96.208.3, port: 26892, type: trojan, password: 73490491-137e-425b-81a0-efde4a630aed, sni: 1024tw5.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾隧道3-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 36251, type: trojan, password: 73490491-137e-425b-81a0-efde4a630aed, sni: 1028tw99.ljydw.top, skip-cert-verify: true, udp: true}
