@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 71058fa5-358f-4d81-a75e-03610a3f2785, udp: true}
-- {name: ℹ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 71058fa5-358f-4d81-a75e-03610a3f2785, udp: true}
+- {name: ℹ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 5d12533d-ac78-4c7d-b325-b186e5e43957, udp: true}
+- {name: ℹ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 5d12533d-ac78-4c7d-b325-b186e5e43957, udp: true}
