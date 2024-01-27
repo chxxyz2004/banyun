@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.anewstart.cyou, port: 5061, type: vmess, uuid: 1dcdd188-60a0-3053-afbb-8a6a0bfb1112, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 AWS2 *1 - 独孤乐天, server: us-2.anewstart.cyou, port: 5061, type: vmess, uuid: 1dcdd188-60a0-3053-afbb-8a6a0bfb1112, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 1dcdd188-60a0-3053-afbb-8a6a0bfb1112, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.anewstart.cyou, port: 5061, type: vmess, uuid: 6f9d5b3f-f6aa-393b-958f-960222992e4a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS2 *1 - 独孤乐天, server: us-2.anewstart.cyou, port: 5061, type: vmess, uuid: 6f9d5b3f-f6aa-393b-958f-960222992e4a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 6f9d5b3f-f6aa-393b-958f-960222992e4a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
