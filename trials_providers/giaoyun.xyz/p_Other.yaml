@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ 最新网址ww1.giaoyun.xyz（正常访问） - giao云, server: 9.9.9.9, port: 25252, type: ss, cipher: chacha20-ietf-poly1305, password: 17b86f2f-4fbf-4da7-a309-9f0acb645c2c, udp: true}
-- {name: ℹ 备用网址ww2.giaoyun.xyz（未启用） - giao云, server: 9.9.9.9, port: 34430, type: ss, cipher: chacha20-ietf-poly1305, password: 17b86f2f-4fbf-4da7-a309-9f0acb645c2c, udp: true}
+- {name: ℹ 最新网址ww1.giaoyun.xyz（正常访问） - giao云, server: 9.9.9.9, port: 25252, type: ss, cipher: chacha20-ietf-poly1305, password: 0e176df1-3c91-4cee-8173-121aeade91f6, udp: true}
+- {name: ℹ 备用网址ww2.giaoyun.xyz（未启用） - giao云, server: 9.9.9.9, port: 34430, type: ss, cipher: chacha20-ietf-poly1305, password: 0e176df1-3c91-4cee-8173-121aeade91f6, udp: true}
