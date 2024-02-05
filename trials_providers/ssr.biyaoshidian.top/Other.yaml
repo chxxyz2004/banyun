@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇩🇪 德国 *3 - 独孤乐天, server: de-1.anewstart.cyou, port: 5061, type: vmess, uuid: bb5bc4b4-a82f-3c7f-9bc4-eab0b269abf7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国 *3 IPv6 - 独孤乐天, server: de6-1.anewstart.cyou, port: 5061, type: vmess, uuid: bb5bc4b4-a82f-3c7f-9bc4-eab0b269abf7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 *3 - 独孤乐天, server: de-1.anewstart.cyou, port: 5061, type: vmess, uuid: 6469770f-927d-3680-9747-c6d45002cc5a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 *3 IPv6 - 独孤乐天, server: de6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 6469770f-927d-3680-9747-c6d45002cc5a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
