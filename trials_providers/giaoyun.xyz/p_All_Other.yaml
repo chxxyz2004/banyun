@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇱🇺 卢森堡隧道-NF-TK-GPT - giao云, server: vip01.svip.xn--fiqa108dbd596g538d.com, port: 10089, type: trojan, password: 09ed8a39-b921-489c-9bda-4987340ff0db, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇱🇺 卢森堡隧道-NF-TK-GPT - giao云, server: vip01.svip.xn--fiqa108dbd596g538d.com, port: 10089, type: trojan, password: 49b67329-7f70-43ee-b60b-42750bc3f514, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
