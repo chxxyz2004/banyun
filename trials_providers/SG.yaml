@@ -33,18 +33,18 @@ proxies:
 - {name: 🇸🇬 新加坡｜隧道 01 - 爱猫论坛, server: api1.594888.xyz, port: 36007, type: vmess, uuid: 0391d4f2-d55b-3aa0-aa6a-3c3e30fc5074, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡｜隧道 02 - 爱猫论坛, server: api2.594888.xyz, port: 36008, type: vmess, uuid: 0391d4f2-d55b-3aa0-aa6a-3c3e30fc5074, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡｜隧道 03 - 爱猫论坛, server: api3.594888.xyz, port: 36022, type: vmess, uuid: 0391d4f2-d55b-3aa0-aa6a-3c3e30fc5074, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: 30c07d94-3801-32b1-a781-1d8ef135e56f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19842, type: vmess, uuid: 30c07d94-3801-32b1-a781-1d8ef135e56f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: 2d433a02-0884-3a41-9906-358ea0b8b2e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19842, type: vmess, uuid: 2d433a02-0884-3a41-9906-358ea0b8b2e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 SG-1 - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
 - {name: 🇸🇬 SG-2 - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
 - {name: 🇸🇬 SG-3 - 小白云, server: sg3.iepl.cooc.icu, port: 35107, type: trojan, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, sni: sg1.cooc.icu, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 SG-4 - 小白云, server: sg4.iepl.cooc.icu, port: 35108, type: trojan, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, sni: sg1.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡隧道1-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 23658, type: trojan, password: 3c589ac5-b14a-44fe-a7c2-e7a50743149b, sni: 1024sg1.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡隧道2-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 22651, type: trojan, password: 3c589ac5-b14a-44fe-a7c2-e7a50743149b, sni: 1028sg.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: bcc.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: yh8BIMwB83jrV4AZ, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: bcc.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: yh8BIMwB83jrV4AZ, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: bcc.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: yh8BIMwB83jrV4AZ, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: bcc.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: yh8BIMwB83jrV4AZ, udp: true}
+- {name: 🇸🇬 新加坡隧道1-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 23658, type: trojan, password: 8fc24de5-d7c9-4e29-858c-5db9743c3504, sni: 1024sg1.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡隧道2-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 22651, type: trojan, password: 8fc24de5-d7c9-4e29-858c-5db9743c3504, sni: 1028sg.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: bcc.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: lSvcjgvernYpO1uF, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: bcc.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: lSvcjgvernYpO1uF, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: bcc.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: lSvcjgvernYpO1uF, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: bcc.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: lSvcjgvernYpO1uF, udp: true}
 - {name: 🇸🇬新加坡中继Ⅰ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31011, type: trojan, password: 1ae49c78-23cf-4d68-b8fd-650687ca9361, sni: sg-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡中继Ⅱ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31012, type: trojan, password: 1ae49c78-23cf-4d68-b8fd-650687ca9361, sni: sg-02.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33011, type: vmess, uuid: 1ae49c78-23cf-4d68-b8fd-650687ca9361, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-01.v4vip.top, udp: true}
@@ -78,9 +78,9 @@ proxies:
 - {name: 🇸🇬 vip1 新加坡-05 - FastFly, server: gzyd.jcnode.top, port: 28474, type: trojan, password: fdb0ef08-ba3e-459b-8314-6111e69e3cc2, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: gzdx.jcnode.top, port: 27880, type: trojan, password: fdb0ef08-ba3e-459b-8314-6111e69e3cc2, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-06_1 - FastFly, server: gzdx01.jcnode.top, port: 45920, type: trojan, password: fdb0ef08-ba3e-459b-8314-6111e69e3cc2, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB, server: shcm002.theyydsnode.top, port: 51031, type: trojan, password: 4d3858bf-eb26-4681-9b4c-96f7b3013cec, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB, server: gdct001.theyydsnode.top, port: 51031, type: trojan, password: 4d3858bf-eb26-4681-9b4c-96f7b3013cec, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB, server: gdct003.theyydsnode.top, port: 51031, type: trojan, password: 4d3858bf-eb26-4681-9b4c-96f7b3013cec, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 JCBB_ 新加坡 04【vip1 】 - JCBB, server: gdct003.theyydsnode.top, port: 58464, type: trojan, password: 4d3858bf-eb26-4681-9b4c-96f7b3013cec, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 JCBB_ 新加坡 05【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 58464, type: trojan, password: 4d3858bf-eb26-4681-9b4c-96f7b3013cec, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 JCBB_ 新加坡 06【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 58464, type: trojan, password: 4d3858bf-eb26-4681-9b4c-96f7b3013cec, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB, server: shcm002.theyydsnode.top, port: 51031, type: trojan, password: d80cdb62-0ed7-4e21-8fc3-3f5758929295, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB, server: gdct001.theyydsnode.top, port: 51031, type: trojan, password: d80cdb62-0ed7-4e21-8fc3-3f5758929295, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB, server: gdct003.theyydsnode.top, port: 51031, type: trojan, password: d80cdb62-0ed7-4e21-8fc3-3f5758929295, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 JCBB_ 新加坡 04【vip1 】 - JCBB, server: gdct003.theyydsnode.top, port: 58464, type: trojan, password: d80cdb62-0ed7-4e21-8fc3-3f5758929295, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 JCBB_ 新加坡 05【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 58464, type: trojan, password: d80cdb62-0ed7-4e21-8fc3-3f5758929295, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 JCBB_ 新加坡 06【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 58464, type: trojan, password: d80cdb62-0ed7-4e21-8fc3-3f5758929295, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
