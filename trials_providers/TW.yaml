@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: 64421604-a992-3c7c-b128-86e4a3165034, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: 64421604-a992-3c7c-b128-86e4a3165034, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 GCP-TW1-20240117 - Kangaroo✦Network, server: tw1.pay.edu.kg, port: 443, type: vmess, uuid: 6c5a48d4-357b-45ef-b04f-7ddda824376b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.pay.edu.kg}}, udp: true}
-- {name: 🇹🇼 GCP-TW2-20240117 - Kangaroo✦Network, server: tw2.pay.edu.kg, port: 443, type: vmess, uuid: 6c5a48d4-357b-45ef-b04f-7ddda824376b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.pay.edu.kg}}, udp: true}
-- {name: 🇹🇼 GCP-TW3-20240117 - Kangaroo✦Network, server: tw3.pay.edu.kg, port: 443, type: vmess, uuid: 6c5a48d4-357b-45ef-b04f-7ddda824376b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.pay.edu.kg}}, udp: true}
-- {name: 🇹🇼 台湾隧道1-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 25987, type: ss, cipher: aes-256-gcm, password: e8e32924-aae7-4047-805e-0782cc0e19ff, udp: true}
-- {name: 🇹🇼 台湾隧道2-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 26897, type: trojan, password: e8e32924-aae7-4047-805e-0782cc0e19ff, sni: 1024tw5.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾隧道3-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 36251, type: trojan, password: e8e32924-aae7-4047-805e-0782cc0e19ff, sni: 1028tw99.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: 570ba8eb-a697-384f-9a14-a4d0a6dc93df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: 570ba8eb-a697-384f-9a14-a4d0a6dc93df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 GCP-TW1-20240215 - Kangaroo✦Network, server: tw1.pay.edu.kg, port: 443, type: vmess, uuid: 6c5a48d4-357b-45ef-b04f-7ddda824376b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.pay.edu.kg}}, udp: true}
+- {name: 🇹🇼 GCP-TW2-20240215 - Kangaroo✦Network, server: tw2.pay.edu.kg, port: 443, type: vmess, uuid: 6c5a48d4-357b-45ef-b04f-7ddda824376b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.pay.edu.kg}}, udp: true}
+- {name: 🇹🇼 GCP-TW3-20240215 - Kangaroo✦Network, server: tw3.pay.edu.kg, port: 443, type: vmess, uuid: 6c5a48d4-357b-45ef-b04f-7ddda824376b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.pay.edu.kg}}, udp: true}
+- {name: 🇹🇼 台湾隧道1-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 25987, type: ss, cipher: aes-256-gcm, password: d02cf3db-5d93-4f38-8982-e761b432aab2, udp: true}
+- {name: 🇹🇼 台湾隧道2-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 26897, type: trojan, password: d02cf3db-5d93-4f38-8982-e761b432aab2, sni: 1024tw5.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾隧道3-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 36251, type: trojan, password: d02cf3db-5d93-4f38-8982-e761b432aab2, sni: 1028tw99.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾1 - 湊 あくあのCrew, server: js.xzyunjiasu.icu, port: 39602, type: ss, cipher: chacha20-ietf-poly1305, password: 65596028-b4fb-439d-954c-32ef99fa29f0, udp: true}
 - {name: 🇹🇼 台湾2 - 湊 あくあのCrew, server: sd.xzyunjiasu.icu, port: 43645, type: ss, cipher: chacha20-ietf-poly1305, password: 65596028-b4fb-439d-954c-32ef99fa29f0, udp: true}
 - {name: 🇹🇼 台湾3 - 湊 あくあのCrew, server: sz.xzyunjiasu.icu, port: 45700, type: ss, cipher: chacha20-ietf-poly1305, password: 65596028-b4fb-439d-954c-32ef99fa29f0, udp: true}
