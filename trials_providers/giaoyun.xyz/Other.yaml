@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ 最新网址ww1.giaoyun.xyz（正常访问） - giao云, server: 9.9.9.9, port: 25252, type: ss, cipher: chacha20-ietf-poly1305, password: c4ef283e-7714-43c7-bc7b-b5a5d08220bc, udp: true}
-- {name: ℹ 备用网址ww2.giaoyun.xyz（未启用） - giao云, server: 9.9.9.9, port: 34430, type: ss, cipher: chacha20-ietf-poly1305, password: c4ef283e-7714-43c7-bc7b-b5a5d08220bc, udp: true}
-- {name: 🇱🇺 卢森堡隧道-NF-TK-GPT - giao云, server: line2.doves.top, port: 10081, type: trojan, password: c4ef283e-7714-43c7-bc7b-b5a5d08220bc, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: ℹ 最新网址ww1.giaoyun.xyz（正常访问） - giao云, server: 9.9.9.9, port: 25252, type: ss, cipher: chacha20-ietf-poly1305, password: bbcddf62-4b6c-488c-9949-6d9f183017eb, udp: true}
+- {name: ℹ 备用网址ww2.giaoyun.xyz（未启用） - giao云, server: 9.9.9.9, port: 34430, type: ss, cipher: chacha20-ietf-poly1305, password: bbcddf62-4b6c-488c-9949-6d9f183017eb, udp: true}
+- {name: 🇱🇺 卢森堡隧道-NF-TK-GPT - giao云, server: line2.doves.top, port: 10081, type: trojan, password: bbcddf62-4b6c-488c-9949-6d9f183017eb, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
