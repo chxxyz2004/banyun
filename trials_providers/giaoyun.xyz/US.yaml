@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国直连1-NF-RK-GPT - giao云, server: 229us.ljydw.top, port: 36251, type: trojan, password: 154e229c-e93e-447f-8a7f-f754ff556be7, sni: 229us.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国隧道 - giao云, server: ggb.doves.top, port: 32521, type: trojan, password: 5a6f5c31-94ed-426b-aaea-970fc22429ad, sni: 33us.ljydw.top, skip-cert-verify: true, udp: true}
