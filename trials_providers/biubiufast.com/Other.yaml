@@ -2,4 +2,4 @@
 ---
 proxies:
 - {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11012, type: ss, cipher: chacha20-ietf-poly1305, password: d27f7b2f-a7a6-4c34-a828-dc970a1bb426, udp: true}
-- {name: 🇩🇪 德国 | 德国高速（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 12311, type: trojan, password: d27f7b2f-a7a6-4c34-a828-dc970a1bb426, sni: dg5.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 | 德国高速（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11301, type: trojan, password: d27f7b2f-a7a6-4c34-a828-dc970a1bb426, sni: dg5.biubiufast.quest, skip-cert-verify: true, udp: true}
