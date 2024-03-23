@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸美国中继Ⅰ-Trojan - Proxyvip, server: sh.zj.my1.2.76po.com, port: 31006, type: trojan, password: 75d3c8b6-efb8-43ac-9e8b-647518e2a525, sni: us-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国中继Ⅱ-Trojan - Proxyvip, server: sh.zj.my1.2.76po.com, port: 31007, type: trojan, password: 75d3c8b6-efb8-43ac-9e8b-647518e2a525, sni: us-02.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国中继Ⅲ-Trojan - Proxyvip, server: sh.zj.my1.2.76po.com, port: 31008, type: trojan, password: 75d3c8b6-efb8-43ac-9e8b-647518e2a525, sni: us-03.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国中继Ⅳ-Trojan - Proxyvip, server: sh.zj.my1.2.76po.com, port: 31009, type: trojan, password: 75d3c8b6-efb8-43ac-9e8b-647518e2a525, sni: us-04.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅰ-Trojan - Proxyvip, server: sz.zj.my.1.76po.com, port: 31006, type: trojan, password: 75d3c8b6-efb8-43ac-9e8b-647518e2a525, sni: us-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅱ-Trojan - Proxyvip, server: sz.zj.my.1.76po.com, port: 31007, type: trojan, password: 75d3c8b6-efb8-43ac-9e8b-647518e2a525, sni: us-02.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅲ-Trojan - Proxyvip, server: sz.zj.my.1.76po.com, port: 31008, type: trojan, password: 75d3c8b6-efb8-43ac-9e8b-647518e2a525, sni: us-03.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅳ-Trojan - Proxyvip, server: sz.zj.my.1.76po.com, port: 31009, type: trojan, password: 75d3c8b6-efb8-43ac-9e8b-647518e2a525, sni: us-04.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸美国中继Ⅰ-V2ray - Proxyvip, server: sz.zj.my.1.76po.com, port: 33006, type: vmess, uuid: 75d3c8b6-efb8-43ac-9e8b-647518e2a525, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-01.v4vip.top, udp: true}
 - {name: 🇺🇸美国中继Ⅱ-V2ray - Proxyvip, server: sz.zj.my.1.76po.com, port: 33007, type: vmess, uuid: 75d3c8b6-efb8-43ac-9e8b-647518e2a525, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-02.v4vip.top, udp: true}
 - {name: 🇺🇸美国中继Ⅲ-V2ray - Proxyvip, server: sz.zj.my.1.76po.com, port: 33008, type: vmess, uuid: 75d3c8b6-efb8-43ac-9e8b-647518e2a525, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-03.v4vip.top, udp: true}
