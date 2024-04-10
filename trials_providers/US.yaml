@@ -76,13 +76,13 @@ proxies:
 - {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gg.58n.net, port: 30767, type: trojan, password: f0d0bbd6-73a8-397d-9f05-34c8e350a599, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gg.58n.net, port: 56783, type: trojan, password: f0d0bbd6-73a8-397d-9f05-34c8e350a599, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gg.58n.net, port: 20288, type: trojan, password: f0d0bbd6-73a8-397d-9f05-34c8e350a599, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国01 - Cyanmori, server: bcc.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: UjS5DPb1dvcUW5tu, udp: true}
-- {name: 🇺🇸 美国02 - Cyanmori, server: bcc.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: UjS5DPb1dvcUW5tu, udp: true}
-- {name: 🇺🇸 美国03 - Cyanmori, server: bcc.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: UjS5DPb1dvcUW5tu, udp: true}
-- {name: 🇺🇸 美国04 - Cyanmori, server: bcc.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: UjS5DPb1dvcUW5tu, udp: true}
-- {name: 🇺🇸 美国05 - Cyanmori, server: bcc.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: UjS5DPb1dvcUW5tu, udp: true}
-- {name: 🇺🇸 美国06 - Cyanmori, server: bcc.xiyun.co, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: UjS5DPb1dvcUW5tu, udp: true}
-- {name: 🇺🇸 美国07 - Cyanmori, server: bcc.xiyun.co, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: UjS5DPb1dvcUW5tu, udp: true}
+- {name: 🇺🇸 美国01 - Cyanmori, server: bcc.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: 3VimfYh3ynSJgPLh, udp: true}
+- {name: 🇺🇸 美国02 - Cyanmori, server: bcc.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: 3VimfYh3ynSJgPLh, udp: true}
+- {name: 🇺🇸 美国03 - Cyanmori, server: bcc.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: 3VimfYh3ynSJgPLh, udp: true}
+- {name: 🇺🇸 美国04 - Cyanmori, server: bcc.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: 3VimfYh3ynSJgPLh, udp: true}
+- {name: 🇺🇸 美国05 - Cyanmori, server: bcc.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: 3VimfYh3ynSJgPLh, udp: true}
+- {name: 🇺🇸 美国06 - Cyanmori, server: bcc.xiyun.co, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: 3VimfYh3ynSJgPLh, udp: true}
+- {name: 🇺🇸 美国07 - Cyanmori, server: bcc.xiyun.co, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: 3VimfYh3ynSJgPLh, udp: true}
 - {name: 🇺🇸 Vip1-3.广州1-美国A | 倍率x2 - 糖果, server: cngzm01.tangguo.pro, port: 6026, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133216:8nwDXJ, obfs-param: 'd366d133216.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 🇺🇸 Vip1-3.广州1-美国B | 倍率x2 - 糖果, server: cngzm01.tangguo.pro, port: 6028, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133216:8nwDXJ, obfs-param: 'd366d133216.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 🇺🇸 Vip1-3.广州1-美国C | 倍率x2 - 糖果, server: cngzm01.tangguo.pro, port: 6050, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133216:8nwDXJ, obfs-param: 'd366d133216.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
@@ -111,7 +111,7 @@ proxies:
 - {name: 🇺🇸 Web 美国I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 925, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: e98c991602.download.windowsupdate.com}, udp: true}
 - {name: 🇺🇸 Web 美国II-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 812, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: e98c991602.download.windowsupdate.com}, udp: true}
 - {name: 🇺🇸 Web 美国III-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 837, type: ss, cipher: aes-128-gcm, password: ayucl12s1, plugin: obfs, plugin-opts: {mode: http, host: e98c991602.download.windowsupdate.com}, udp: true}
-- {name: 🇺🇸 美国隧道 - giao云, server: 101.89.110.225, port: 32521, type: trojan, password: 5ab5876d-81a9-42dc-ae10-7c4be6e6eff6, sni: 33us.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国隧道 - giao云, server: 101.89.110.225, port: 32521, type: trojan, password: db282ff2-63b4-4de3-8469-60570c23828c, sni: 33us.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.anewstart.cyou, port: 5061, type: vmess, uuid: 75580dc9-5ad5-333d-85f7-3359f494e6a6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 AWS2 *1 - 独孤乐天, server: us-2.dugusite3.top, port: 5061, type: vmess, uuid: 75580dc9-5ad5-333d-85f7-3359f494e6a6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 75580dc9-5ad5-333d-85f7-3359f494e6a6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
@@ -137,8 +137,8 @@ proxies:
 - {name: 🇺🇸 JCBB_美国05_1【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 26681, type: trojan, password: 3c21713c-5f65-47fb-bcf3-cd2fb0ebbbe1, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_美国05【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 26681, type: trojan, password: 3c21713c-5f65-47fb-bcf3-cd2fb0ebbbe1, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_美国06【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 26681, type: trojan, password: 3c21713c-5f65-47fb-bcf3-cd2fb0ebbbe1, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 29811, type: vmess, uuid: 84634a8b-ee52-31ed-a6a9-6771d47b8018, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19862, type: vmess, uuid: 84634a8b-ee52-31ed-a6a9-6771d47b8018, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 29811, type: vmess, uuid: 8f4e1f00-005c-3207-a9c1-d9d57627f4bf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19862, type: vmess, uuid: 8f4e1f00-005c-3207-a9c1-d9d57627f4bf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 【C】美国 普通 1 - CC - SockBoom, server: us1.edge.boom.skin, port: 40000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1025117:URWclq, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇺🇸 【C】美国 普通 2 - CC - SockBoom, server: us2.edge.boom.skin, port: 41000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1025117:URWclq, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇺🇸 【C】美国 普通 3 - CC - SockBoom, server: us3.edge.boom.skin, port: 42001, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1025117:URWclq, obfs-param: download.windowsupdate.com, udp: true}
