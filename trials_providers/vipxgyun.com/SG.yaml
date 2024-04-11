@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19841, type: vmess, uuid: d177f8be-106f-31e2-acb5-0fc3d3c7b6e5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19842, type: vmess, uuid: d177f8be-106f-31e2-acb5-0fc3d3c7b6e5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19841, type: vmess, uuid: 10fdcc7d-4081-3db0-9d86-d59a750999f2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19842, type: vmess, uuid: 10fdcc7d-4081-3db0-9d86-d59a750999f2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
