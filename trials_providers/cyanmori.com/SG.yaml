@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: sg1.lvuy.xyz, port: 10044, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227949:wSEGD9NQZkD5ivvn, obfs-param: 6fd07227949.microsoft.com, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: sg2.lvuy.xyz, port: 10045, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227949:wSEGD9NQZkD5ivvn, obfs-param: 6fd07227949.microsoft.com, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: sg3.lvuy.xyz, port: 10046, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227949:wSEGD9NQZkD5ivvn, obfs-param: 6fd07227949.microsoft.com, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: sg4.lvuy.xyz, port: 10068, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227949:wSEGD9NQZkD5ivvn, obfs-param: 6fd07227949.microsoft.com, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: sg1.lvuy.xyz, port: 10044, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 228160:lWwjaig2B6fMN6Lm, obfs-param: 9a8e3228160.microsoft.com, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: sg2.lvuy.xyz, port: 10045, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 228160:lWwjaig2B6fMN6Lm, obfs-param: 9a8e3228160.microsoft.com, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: sg3.lvuy.xyz, port: 10046, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 228160:lWwjaig2B6fMN6Lm, obfs-param: 9a8e3228160.microsoft.com, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: sg4.lvuy.xyz, port: 10068, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 228160:lWwjaig2B6fMN6Lm, obfs-param: 9a8e3228160.microsoft.com, udp: true}
