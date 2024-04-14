@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: ℹ️ 官网：https://1100.gg - Cyanmori, server: ar.suxia.co, port: 443, type: vmess, uuid: 3872fce3-ee45-32aa-a824-9dbd790f3011, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
