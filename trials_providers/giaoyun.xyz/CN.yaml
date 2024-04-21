@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港隧道1-NF-TK-GPT - giao云, server: 101.89.150.186, port: 22267, type: trojan, password: 8bb84e92-1057-4e89-9356-711f9765f0eb, sni: 418hk1.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港隧道2-NF-TK-GPT - giao云, server: 101.89.150.186, port: 26881, type: trojan, password: 8bb84e92-1057-4e89-9356-711f9765f0eb, sni: 418hk2.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾隧道1-NF-TK-GPT - giao云, server: 101.89.150.186, port: 36529, type: trojan, password: 8bb84e92-1057-4e89-9356-711f9765f0eb, sni: 36hk.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾隧道2-NF-TK-GPT - giao云, server: 101.89.150.186, port: 25871, type: trojan, password: 8bb84e92-1057-4e89-9356-711f9765f0eb, sni: 35tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港隧道1-NF-TK-GPT - giao云, server: 101.89.150.186, port: 22267, type: trojan, password: 7071d70a-7a25-457b-a7cc-1cf3640b2610, sni: 418hk1.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港隧道2-NF-TK-GPT - giao云, server: 101.89.150.186, port: 26881, type: trojan, password: 7071d70a-7a25-457b-a7cc-1cf3640b2610, sni: 418hk2.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾隧道1-NF-TK-GPT - giao云, server: 101.89.150.186, port: 36529, type: trojan, password: 7071d70a-7a25-457b-a7cc-1cf3640b2610, sni: 36hk.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾隧道2-NF-TK-GPT - giao云, server: 101.89.150.186, port: 25871, type: trojan, password: 7071d70a-7a25-457b-a7cc-1cf3640b2610, sni: 35tw.ljydw.top, skip-cert-verify: true, udp: true}
