@@ -39,7 +39,7 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 剩余流量：10.62GB - 恰恰- 有情怀的Ai加速服务商, server: iqiaqia.xyz, port: 10086, type: vmess, uuid: 51a30a04-b24a-331b-b652-37222aa53eac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 剩余流量：11.07GB - 恰恰- 有情怀的Ai加速服务商, server: iqiaqia.xyz, port: 10086, type: vmess, uuid: 51a30a04-b24a-331b-b652-37222aa53eac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 过期时间：2023-10-20 - 恰恰- 有情怀的Ai加速服务商, server: iqiaqia.xyz, port: 10086, type: vmess, uuid: 51a30a04-b24a-331b-b652-37222aa53eac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
