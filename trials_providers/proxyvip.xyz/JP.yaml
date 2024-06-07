@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵日本中继Ⅰ-Trojan - Proxyvip, server: jp-01.01-vip.top, port: 31013, type: trojan, password: 061949f1-040d-46f5-9749-d8c97a9e5fb3, sni: jp-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本中继Ⅱ-Trojan - Proxyvip, server: jp-02.01-vip.top, port: 31014, type: trojan, password: 061949f1-040d-46f5-9749-d8c97a9e5fb3, sni: jp-02.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本中继Ⅰ-V2ray - Proxyvip, server: jp-01.03-vip.top, port: 33013, type: vmess, uuid: 061949f1-040d-46f5-9749-d8c97a9e5fb3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp-01.v4vip.top, udp: true}
-- {name: 🇯🇵日本中继Ⅱ-V2ray - Proxyvip, server: jp-02.03-vip.top, port: 33014, type: vmess, uuid: 061949f1-040d-46f5-9749-d8c97a9e5fb3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp-02.v4vip.top, udp: true}
+- {name: 🇯🇵日本中继Ⅰ-Trojan - Proxyvip, server: jp-01.01-vip.top, port: 31013, type: trojan, password: 7dd559f5-c050-4220-b9fc-edbce15b5076, sni: jp-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本中继Ⅱ-Trojan - Proxyvip, server: jp-02.01-vip.top, port: 31014, type: trojan, password: 7dd559f5-c050-4220-b9fc-edbce15b5076, sni: jp-02.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本中继Ⅰ-V2ray - Proxyvip, server: jp-01.03-vip.top, port: 33013, type: vmess, uuid: 7dd559f5-c050-4220-b9fc-edbce15b5076, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp-01.v4vip.top, udp: true}
+- {name: 🇯🇵日本中继Ⅱ-V2ray - Proxyvip, server: jp-02.03-vip.top, port: 33014, type: vmess, uuid: 7dd559f5-c050-4220-b9fc-edbce15b5076, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp-02.v4vip.top, udp: true}
