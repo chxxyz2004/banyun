@@ -164,9 +164,9 @@ proxies:
 - {name: 🇩🇪德国中继Ⅰ-V2ray - Proxyvip, server: de-01.03-vip.top, port: 33017, type: vmess, uuid: 66f7de35-46df-42f6-8d51-2b65538ee7a6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: de-01.v4vip.top, udp: true}
 - {name: 🇮🇳印度中继Ⅰ-V2ray - Proxyvip, server: in-01.03-vip.top, port: 33018, type: vmess, uuid: 66f7de35-46df-42f6-8d51-2b65538ee7a6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: in-01.v4vip.top, udp: true}
 - {name: 🇦🇺澳大利亚中继Ⅰ-V2ray - Proxyvip, server: au-01.03-vip.top, port: 33019, type: vmess, uuid: 66f7de35-46df-42f6-8d51-2b65538ee7a6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: au-01.v4vip.top, udp: true}
-- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 2bfcb387-aa38-4ab4-a6c0-470cc7868cd7, udp: true}
-- {name: 🇱🇦 请登录6854.33laomao.com 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 2bfcb387-aa38-4ab4-a6c0-470cc7868cd7, udp: true}
-- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 2bfcb387-aa38-4ab4-a6c0-470cc7868cd7, udp: true}
+- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: b5225637-b7df-4faf-8dc0-0a7324b27902, udp: true}
+- {name: 🇱🇦 请登录6854.33laomao.com 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: b5225637-b7df-4faf-8dc0-0a7324b27902, udp: true}
+- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: b5225637-b7df-4faf-8dc0-0a7324b27902, udp: true}
 - {name: 🇰🇷 韩国 01 - V2Link, server: host-026.crazyspeed.xyz, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: 326157c0-36ca-4585-bd87-f61b0fab8cf1, udp: true}
 - {name: 🇰🇷 韩国 02 - V2Link, server: host-027.crazyspeed.xyz, port: 21007, type: ss, cipher: chacha20-ietf-poly1305, password: 326157c0-36ca-4585-bd87-f61b0fab8cf1, udp: true}
 - {name: 🇰🇷 韩国 03 - V2Link, server: host-028.crazyspeed.xyz, port: 21008, type: ss, cipher: chacha20-ietf-poly1305, password: 326157c0-36ca-4585-bd87-f61b0fab8cf1, udp: true}
