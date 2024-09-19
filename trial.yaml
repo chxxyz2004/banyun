@@ -2171,9 +2171,9 @@ proxies:
 - {name: 🇩🇪 德国 *3 - 独孤乐天, server: de-1.dugusite3.top, port: 5061, type: vmess, uuid: 75580dc9-5ad5-333d-85f7-3359f494e6a6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国 *3 IPv6 - 独孤乐天, server: de6-1.dugusite3.top, port: 5061, type: vmess, uuid: 75580dc9-5ad5-333d-85f7-3359f494e6a6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 Ali6 *3 - 独孤乐天, server: nhk-6.dugusite3.top, port: 5061, type: vmess, uuid: 75580dc9-5ad5-333d-85f7-3359f494e6a6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 8eafb16f-0f5a-4a12-a727-fcd8db423aa1, udp: true}
-- {name: 🇱🇦 请登录6854.33laomao.com 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 8eafb16f-0f5a-4a12-a727-fcd8db423aa1, udp: true}
-- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 8eafb16f-0f5a-4a12-a727-fcd8db423aa1, udp: true}
+- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: afeb8fa0-e741-4778-bde3-4f11f31bcaf3, udp: true}
+- {name: 🇱🇦 请登录6854.33laomao.com 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: afeb8fa0-e741-4778-bde3-4f11f31bcaf3, udp: true}
+- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: afeb8fa0-e741-4778-bde3-4f11f31bcaf3, udp: true}
 - {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gg.58n.net, port: 20295, type: trojan, password: f0d0bbd6-73a8-397d-9f05-34c8e350a599, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gg.58n.net, port: 20296, type: trojan, password: f0d0bbd6-73a8-397d-9f05-34c8e350a599, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gg.58n.net, port: 16895, type: trojan, password: f0d0bbd6-73a8-397d-9f05-34c8e350a599, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
