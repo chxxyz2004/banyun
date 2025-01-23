@@ -189,9 +189,9 @@ proxies:
 - {name: 🇦🇺 澳大利亚02 - Cyanmori, server: xn2.lvuy.xyz, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: xcR2LUGWZVXtJYoi, udp: true}
 - {name: 🇦🇪 迪拜01 - Cyanmori, server: dibai1.lvuy.xyz, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: xcR2LUGWZVXtJYoi, udp: true}
 - {name: 🇦🇪 迪拜02 - Cyanmori, server: dibai2.lvuy.xyz, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: xcR2LUGWZVXtJYoi, udp: true}
-- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
-- {name: 🇱🇦 请登录laomao.biz 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
-- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
+- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, tfo: true, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
+- {name: 🇱🇦 请登录laomao.biz 购买 - 老猫云, server: www.google.com, port: 443, tfo: true, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
+- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, tfo: true, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
 - {name: 🇻🇳 vip1 越南-01 - FastFly, server: gzdx.jcnode.top, port: 39191, type: trojan, password: fdb0ef08-ba3e-459b-8314-6111e69e3cc2, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 vip1 越南-01_1 - FastFly, server: gzdx01.jcnode.top, port: 43686, type: trojan, password: fdb0ef08-ba3e-459b-8314-6111e69e3cc2, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 vip1 越南-02 - FastFly, server: gzyd.jcnode.top, port: 47020, type: trojan, password: fdb0ef08-ba3e-459b-8314-6111e69e3cc2, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
