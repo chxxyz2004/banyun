@@ -2111,9 +2111,9 @@ proxies:
 - {name: 🇯🇵 AZ日本隧道转移动1 - cloudtu, server: yt201.jdxx9.com, port: 16486, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 9787:xddFCi, obfs-param: 5af729787.download.windowsupdate.com, udp: true}
 - {name: 🇯🇵 AZ日本隧道转移动2 - cloudtu, server: yt201.jdxx9.com, port: 16487, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 9787:xddFCi, obfs-param: 5af729787.download.windowsupdate.com, udp: true}
 - {name: 🇯🇵 AZ日本隧道转移动4 - cloudtu, server: yt201.jdxx9.com, port: 16489, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 9787:xddFCi, obfs-param: 5af729787.download.windowsupdate.com, udp: true}
-- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
-- {name: 🇱🇦 请登录laomao.biz 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
-- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
+- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, tfo: true, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
+- {name: 🇱🇦 请登录laomao.biz 购买 - 老猫云, server: www.google.com, port: 443, tfo: true, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
+- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, tfo: true, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
 - {name: 极速｜美国🇺🇸E - 探索者, server: 603diyb.donghui.tech, port: 32329, type: vmess, uuid: ebea4d4e-a761-4b07-ba75-96b9404cece8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: 极速｜美国🇺🇸F - 探索者, server: 603diyb.donghui.tech, port: 32334, type: vmess, uuid: ebea4d4e-a761-4b07-ba75-96b9404cece8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: 极速｜美国🇺🇸K - 探索者, server: 603diyb.donghui.tech, port: 32338, type: vmess, uuid: ebea4d4e-a761-4b07-ba75-96b9404cece8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
@@ -4616,15 +4616,41 @@ rules:
 - DOMAIN-SUFFIX,hdslb.com,📺 ‍B站
 - DOMAIN-SUFFIX,im9.com,📺 ‍B站
 - DOMAIN-SUFFIX,smtcdns.net,📺 ‍B站
-- DOMAIN-SUFFIX,openai.com,🤖 ‍AI
+- DOMAIN-KEYWORD,anthropic,🤖 ‍AI
+- DOMAIN-KEYWORD,claude,🤖 ‍AI
+- DOMAIN-KEYWORD,openai,🤖 ‍AI
+- DOMAIN,ai.google.dev,🤖 ‍AI
+- DOMAIN,api.githubcopilot.com,🤖 ‍AI
+- DOMAIN,api.groq.com,🤖 ‍AI
+- DOMAIN,api.together.xyz,🤖 ‍AI
+- DOMAIN,bard.google.com,🤖 ‍AI
+- DOMAIN,console.groq.com,🤖 ‍AI
+- DOMAIN,copilot-proxy.githubusercontent.com,🤖 ‍AI
+- DOMAIN,gemini.google.com,🤖 ‍AI
+- DOMAIN,generativelanguage.googleapis.com,🤖 ‍AI
+- DOMAIN,sydney.bing.com,🤖 ‍AI
+- DOMAIN-SUFFIX,ai.azure.com,🤖 ‍AI
+- DOMAIN-SUFFIX,auth0.com,🤖 ‍AI
+- DOMAIN-SUFFIX,bard.google.com,🤖 ‍AI
 - DOMAIN-SUFFIX,chatgpt.com,🤖 ‍AI
+- DOMAIN-SUFFIX,client-api.arkoselabs.com,🤖 ‍AI
+- DOMAIN-SUFFIX,copilot.cloud.microsoft,🤖 ‍AI
+- DOMAIN-SUFFIX,copilot.microsoft.com,🤖 ‍AI
+- DOMAIN-SUFFIX,events.statsigapi.net,🤖 ‍AI
+- DOMAIN-SUFFIX,featuregates.org,🤖 ‍AI
+- DOMAIN-SUFFIX,gemini.google.com,🤖 ‍AI
+- DOMAIN-SUFFIX,grazie.ai,🤖 ‍AI
+- DOMAIN-SUFFIX,grazie.aws.intellij.net,🤖 ‍AI
+- DOMAIN-SUFFIX,identrust.com,🤖 ‍AI
+- DOMAIN-SUFFIX,intercom.io,🤖 ‍AI
+- DOMAIN-SUFFIX,intercomcdn.com,🤖 ‍AI
+- DOMAIN-SUFFIX,makersuite.google.com,🤖 ‍AI
+- DOMAIN-SUFFIX,meta.ai,🤖 ‍AI
+- DOMAIN-SUFFIX,mistral.ai,🤖 ‍AI
 - DOMAIN-SUFFIX,oaistatic.com,🤖 ‍AI
 - DOMAIN-SUFFIX,oaiusercontent.com,🤖 ‍AI
-- DOMAIN-SUFFIX,bing.com,🤖 ‍AI
-- DOMAIN,copilot.microsoft.com,🤖 ‍AI
-- DOMAIN,gemini.google.com,🤖 ‍AI
-- DOMAIN-SUFFIX,claude.ai,🤖 ‍AI
-- DOMAIN-SUFFIX,anthropic.com,🤖 ‍AI
+- DOMAIN-SUFFIX,perplexity.ai,🤖 ‍AI
+- DOMAIN-SUFFIX,sora.com,🤖 ‍AI
 - DOMAIN-SUFFIX,1password.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,adguard.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,bit.no.com,✈️ ‍起飞
@@ -5186,6 +5212,7 @@ rules:
 - DOMAIN-SUFFIX,billypan.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,binance.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,binancezh.cc,✈️ ‍起飞
+- DOMAIN-SUFFIX,bing.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,binux.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,binwang.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,bird.so,✈️ ‍起飞
@@ -8062,7 +8089,6 @@ rules:
 - DOMAIN-SUFFIX,perfect-privacy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,perfectgirls.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,periscope.tv,✈️ ‍起飞
-- DOMAIN-SUFFIX,perplexity.ai,✈️ ‍起飞
 - DOMAIN-SUFFIX,persecutionblog.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,persiankitty.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,phapluan.org,✈️ ‍起飞
