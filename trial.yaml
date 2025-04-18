@@ -2111,9 +2111,9 @@ proxies:
 - {name: 🇯🇵 AZ日本隧道转移动1 - cloudtu, server: yt201.jdxx9.com, port: 16486, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 9787:xddFCi, obfs-param: 5af729787.download.windowsupdate.com, udp: true}
 - {name: 🇯🇵 AZ日本隧道转移动2 - cloudtu, server: yt201.jdxx9.com, port: 16487, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 9787:xddFCi, obfs-param: 5af729787.download.windowsupdate.com, udp: true}
 - {name: 🇯🇵 AZ日本隧道转移动4 - cloudtu, server: yt201.jdxx9.com, port: 16489, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 9787:xddFCi, obfs-param: 5af729787.download.windowsupdate.com, udp: true}
-- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
-- {name: 🇱🇦 请登录laomao.biz 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
-- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
+- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, tfo: true, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
+- {name: 🇱🇦 请登录laomao.biz 购买 - 老猫云, server: www.google.com, port: 443, tfo: true, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
+- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, tfo: true, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
 - {name: 极速｜美国🇺🇸E - 探索者, server: 603diyb.donghui.tech, port: 32329, type: vmess, uuid: ebea4d4e-a761-4b07-ba75-96b9404cece8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: 极速｜美国🇺🇸F - 探索者, server: 603diyb.donghui.tech, port: 32334, type: vmess, uuid: ebea4d4e-a761-4b07-ba75-96b9404cece8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: 极速｜美国🇺🇸K - 探索者, server: 603diyb.donghui.tech, port: 32338, type: vmess, uuid: ebea4d4e-a761-4b07-ba75-96b9404cece8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
@@ -2829,16 +2829,16 @@ proxies:
 - {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.dugusite3.top, port: 5061, type: vmess, uuid: 75580dc9-5ad5-333d-85f7-3359f494e6a6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 AWS3 *3 - 独孤乐天, server: ru-1.dugusite3.top, port: 5061, type: vmess, uuid: 75580dc9-5ad5-333d-85f7-3359f494e6a6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 AWS3 *3 IPv6 - 独孤乐天, server: jp6-3.dugusite3.top, port: 5061, type: vmess, uuid: 75580dc9-5ad5-333d-85f7-3359f494e6a6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 6474f711-81c6-3ed6-a52f-91dc4476e79b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 6474f711-81c6-3ed6-a52f-91dc4476e79b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
-- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 6474f711-81c6-3ed6-a52f-91dc4476e79b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
-- {name: '🇮🇳 [vip①]印度1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 6474f711-81c6-3ed6-a52f-91dc4476e79b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
-- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 6474f711-81c6-3ed6-a52f-91dc4476e79b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
-- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 6474f711-81c6-3ed6-a52f-91dc4476e79b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 6474f711-81c6-3ed6-a52f-91dc4476e79b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, udp: true}
-- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 6474f711-81c6-3ed6-a52f-91dc4476e79b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.mamamajd.site}}, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 6474f711-81c6-3ed6-a52f-91dc4476e79b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 6474f711-81c6-3ed6-a52f-91dc4476e79b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: da8ed76f-5585-39b7-a2a3-ddb47a0e1b4d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: da8ed76f-5585-39b7-a2a3-ddb47a0e1b4d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: da8ed76f-5585-39b7-a2a3-ddb47a0e1b4d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
+- {name: '🇮🇳 [vip①]印度1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: da8ed76f-5585-39b7-a2a3-ddb47a0e1b4d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
+- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: da8ed76f-5585-39b7-a2a3-ddb47a0e1b4d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
+- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: da8ed76f-5585-39b7-a2a3-ddb47a0e1b4d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: da8ed76f-5585-39b7-a2a3-ddb47a0e1b4d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, udp: true}
+- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: da8ed76f-5585-39b7-a2a3-ddb47a0e1b4d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.mamamajd.site}}, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: da8ed76f-5585-39b7-a2a3-ddb47a0e1b4d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: da8ed76f-5585-39b7-a2a3-ddb47a0e1b4d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -4739,6 +4739,14 @@ rules:
 - DOMAIN-SUFFIX,1bao.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,1dumb.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,1eew.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,1lib.cloud,✈️ ‍起飞
+- DOMAIN-SUFFIX,1lib.cz,✈️ ‍起飞
+- DOMAIN-SUFFIX,1lib.domains,✈️ ‍起飞
+- DOMAIN-SUFFIX,1lib.education,✈️ ‍起飞
+- DOMAIN-SUFFIX,1lib.limited,✈️ ‍起飞
+- DOMAIN-SUFFIX,1lib.pl,✈️ ‍起飞
+- DOMAIN-SUFFIX,1lib.sk,✈️ ‍起飞
+- DOMAIN-SUFFIX,1lib.to,✈️ ‍起飞
 - DOMAIN-SUFFIX,1mobile.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,1point3acres.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,1pondo.tv,✈️ ‍起飞
@@ -4758,6 +4766,7 @@ rules:
 - DOMAIN-SUFFIX,24smile.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,25u.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,2du5.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,2lib.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,2lipstube.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,2shared.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,2waky.com,✈️ ‍起飞
@@ -4770,6 +4779,7 @@ rules:
 - DOMAIN-SUFFIX,3arabtv.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,3boys2girls.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,3d-game.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,3lib.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,3proxy.ru,✈️ ‍起飞
 - DOMAIN-SUFFIX,3tui.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,404museum.com,✈️ ‍起飞
@@ -5051,6 +5061,7 @@ rules:
 - DOMAIN-SUFFIX,arethusa.su,✈️ ‍起飞
 - DOMAIN-SUFFIX,arlingtoncemetery.mil,✈️ ‍起飞
 - DOMAIN-SUFFIX,army.mil,✈️ ‍起飞
+- DOMAIN-SUFFIX,art1lib.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,art4tibet1998.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,arte.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,artofpeacefoundation.org,✈️ ‍起飞
@@ -5117,7 +5128,11 @@ rules:
 - DOMAIN-SUFFIX,azirevpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,azubu.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,azurewebsites.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,b-ok.africa,✈️ ‍起飞
+- DOMAIN-SUFFIX,b-ok.asia,✈️ ‍起飞
 - DOMAIN-SUFFIX,b-ok.cc,✈️ ‍起飞
+- DOMAIN-SUFFIX,b-ok.global,✈️ ‍起飞
+- DOMAIN-SUFFIX,b-ok.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,b0ne.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,baby-kingdom.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,babylonbee.com,✈️ ‍起飞
@@ -5308,8 +5323,16 @@ rules:
 - DOMAIN-SUFFIX,bonfoundation.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,bongacams.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,boobstagram.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,book4you.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,bookdepository.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,bookepub.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,bookfi.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,booksc.me,✈️ ‍起飞
+- DOMAIN-SUFFIX,booksc.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,booksc.xyz,✈️ ‍起飞
+- DOMAIN-SUFFIX,bookshome.info,✈️ ‍起飞
+- DOMAIN-SUFFIX,bookshome.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,bookshome.world,✈️ ‍起飞
 - DOMAIN-SUFFIX,booktopia.com.au,✈️ ‍起飞
 - DOMAIN-SUFFIX,boomssr.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,bootstrapcdn.com,✈️ ‍起飞
@@ -5645,6 +5668,7 @@ rules:
 - DOMAIN-SUFFIX,clipfish.de,✈️ ‍起飞
 - DOMAIN-SUFFIX,clips4sale.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cloakpoint.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,cloudflare-dns.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cloudflare-ipfs.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cloudfront.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,cloudfunctions.net,✈️ ‍起飞
@@ -5837,6 +5861,7 @@ rules:
 - DOMAIN-SUFFIX,ddns.name,✈️ ‍起飞
 - DOMAIN-SUFFIX,ddns.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,de-sci.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,de1lib.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,deadhouse.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,deadline.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,deaftone.com,✈️ ‍起飞
@@ -6202,6 +6227,7 @@ rules:
 - DOMAIN-SUFFIX,fangongheike.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,fanhaodang.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,fanhaolou.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,fani.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,fanqiang.network,✈️ ‍起飞
 - DOMAIN-SUFFIX,fanqiang.tk,✈️ ‍起飞
 - DOMAIN-SUFFIX,fanqiangdang.com,✈️ ‍起飞
@@ -6223,6 +6249,7 @@ rules:
 - DOMAIN-SUFFIX,faststone.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,fatakat-n.club,✈️ ‍起飞
 - DOMAIN-SUFFIX,fatbtc.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,favcomic.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,favotter.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,favstar.fm,✈️ ‍起飞
 - DOMAIN-SUFFIX,fawanghuihui.org,✈️ ‍起飞
@@ -6584,6 +6611,7 @@ rules:
 - DOMAIN-SUFFIX,gmx.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,gnews.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,go-pki.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,go-to-library.sk,✈️ ‍起飞
 - DOMAIN-SUFFIX,go-to-zlibrary.se,✈️ ‍起飞
 - DOMAIN-SUFFIX,go.sony.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,go141.com,✈️ ‍起飞
@@ -6695,6 +6723,7 @@ rules:
 - DOMAIN-SUFFIX,gzm.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,gzone-anime.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,h-china.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,h-ciyuan.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,h-moe.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,h1n1china.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,h528.com,✈️ ‍起飞
@@ -6806,6 +6835,7 @@ rules:
 - DOMAIN-SUFFIX,hjd2048.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hk-pub.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hk01.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,hk1lib.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,hk32168.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hkacg.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hkacg.net,✈️ ‍起飞
@@ -6955,6 +6985,7 @@ rules:
 - DOMAIN-SUFFIX,hybrid-analysis.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hyperrate.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hypothes.is,✈️ ‍起飞
+- DOMAIN-SUFFIX,hysteria.network,✈️ ‍起飞
 - DOMAIN-SUFFIX,i-cable.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,i-scmp.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,i2p2.de,✈️ ‍起飞
@@ -7120,6 +7151,7 @@ rules:
 - DOMAIN-SUFFIX,isuntv.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,isupportuyghurs.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,itaboo.info,✈️ ‍起飞
+- DOMAIN-SUFFIX,italian-books.sk,✈️ ‍起飞
 - DOMAIN-SUFFIX,italiatibet.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,itasoftware.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,itemdb.com,✈️ ‍起飞
@@ -7410,6 +7442,9 @@ rules:
 - DOMAIN-SUFFIX,libertysculpturepark.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,libraryinformationtechnology.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,libredd.it,✈️ ‍起飞
+- DOMAIN-SUFFIX,libsolutions.app,✈️ ‍起飞
+- DOMAIN-SUFFIX,libsolutions.domains,✈️ ‍起飞
+- DOMAIN-SUFFIX,libsolutions.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,lidecheng.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,lifemiles.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,lighti.me,✈️ ‍起飞
@@ -7502,6 +7537,7 @@ rules:
 - DOMAIN-SUFFIX,m-team.cc,✈️ ‍起飞
 - DOMAIN-SUFFIX,m.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,m8008.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,ma1lib.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,macgamestore.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,macrovpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mad-ar.ch,✈️ ‍起飞
@@ -7535,6 +7571,7 @@ rules:
 - DOMAIN-SUFFIX,mansion.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mansionpoker.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,manta.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,manwa.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,manyvoices.news,✈️ ‍起飞
 - DOMAIN-SUFFIX,maplew.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,marc.info,✈️ ‍起飞
@@ -8603,6 +8640,7 @@ rules:
 - DOMAIN-SUFFIX,safechat.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,safeguarddefenders.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,safervpn.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,sagernet.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,saintyculture.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,saiq.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,sakuralive.com,✈️ ‍起飞
@@ -8692,6 +8730,7 @@ rules:
 - DOMAIN-SUFFIX,sfshibao.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,sftindia.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,sftuk.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,sg1lib.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,sgwritings.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,sgzhan.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,shadeyouvpn.com,✈️ ‍起飞
@@ -8760,7 +8799,11 @@ rules:
 - DOMAIN-SUFFIX,simpleswap.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,sinchew.com.my,✈️ ‍起飞
 - DOMAIN-SUFFIX,singfortibet.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,singlelogin.app,✈️ ‍起飞
+- DOMAIN-SUFFIX,singlelogin.me,✈️ ‍起飞
+- DOMAIN-SUFFIX,singlelogin.re,✈️ ‍起飞
 - DOMAIN-SUFFIX,singlelogin.se,✈️ ‍起飞
+- DOMAIN-SUFFIX,singlelogin.site,✈️ ‍起飞
 - DOMAIN-SUFFIX,singtao.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,singtaousa.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,sino-monthly.com,✈️ ‍起飞
@@ -8869,6 +8912,7 @@ rules:
 - DOMAIN-SUFFIX,sosad.fun,✈️ ‍起飞
 - DOMAIN-SUFFIX,sosreader.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,sostibet.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,sotwe.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,sou-tong.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,soubory.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,soul-plus.net,✈️ ‍起飞
@@ -8920,6 +8964,7 @@ rules:
 - DOMAIN-SUFFIX,ssglobal.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,ssh91.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ssl443.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,ssm.fun,✈️ ‍起飞
 - DOMAIN-SUFFIX,sspanel.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,sspanel.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,sspro.ml,✈️ ‍起飞
@@ -9185,6 +9230,7 @@ rules:
 - DOMAIN-SUFFIX,thlib.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,thomasbernhard.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,thongdreams.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,thotsbay.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,threadreaderapp.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,threads.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,threatchaos.com,✈️ ‍起飞
@@ -10172,8 +10218,13 @@ rules:
 - DOMAIN-SUFFIX,yyjlymb.xyz,✈️ ‍起飞
 - DOMAIN-SUFFIX,yysub.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,yzzk.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,z-lib.gd,✈️ ‍起飞
+- DOMAIN-SUFFIX,z-lib.gs,✈️ ‍起飞
 - DOMAIN-SUFFIX,z-lib.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,z-lib.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,z-lib.ps,✈️ ‍起飞
+- DOMAIN-SUFFIX,z-library.se,✈️ ‍起飞
+- DOMAIN-SUFFIX,z-library.sk,✈️ ‍起飞
 - DOMAIN-SUFFIX,zacebook.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zalmos.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zamimg.com,✈️ ‍起飞
@@ -10225,6 +10276,9 @@ rules:
 - DOMAIN-SUFFIX,zippyshare.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zkaip.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zkiz.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,zlib.life,✈️ ‍起飞
+- DOMAIN-SUFFIX,zlibcdn.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,zlibcdn2.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zmw.cn,✈️ ‍起飞
 - DOMAIN-SUFFIX,zoho.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zomobo.net,✈️ ‍起飞
