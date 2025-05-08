@@ -167,7 +167,7 @@ proxies:
 - {name: 🇭🇰 香港bgp1 - 快乐星球, server: 2x.turn.catscloud.top, port: 22261, type: ss, cipher: aes-128-gcm, password: 455afcaf-6f7a-4561-a865-0bf48cd48ad1, udp: true}
 - {name: 🇭🇰 香港bgp2 - 快乐星球, server: 1.5x.turn.catscloud.top, port: 22261, type: ss, cipher: aes-128-gcm, password: 455afcaf-6f7a-4561-a865-0bf48cd48ad1, udp: true}
 - {name: 🇭🇰 香港bgp3 - 快乐星球, server: 1x.turn.catscloud.top, port: 22261, type: ss, cipher: aes-128-gcm, password: 455afcaf-6f7a-4561-a865-0bf48cd48ad1, udp: true}
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, tfo: true, type: vmess, uuid: d6d6fb15-17bf-34c9-aec5-5ee12a674a50, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 1a62d3ff-d85d-3301-bf20-75b5155f3121, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
 - {name: 🇭🇰香港-中转A - 青花瓷云qhcy.cc, server: lt.q5wrf7jtkd23.top, port: 40311, type: ss, cipher: chacha20-ietf-poly1305, password: 7c7c8438-62ce-460b-a920-b692165292c5, udp: true}
 - {name: 🇭🇰 香港|SS直连二 - BIUBIU FAST 加速器, server: hk1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 63f36530-cffe-49ff-902c-8eebe4ed8418, udp: true}
 - {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11005, type: ss, cipher: chacha20-ietf-poly1305, password: 63f36530-cffe-49ff-902c-8eebe4ed8418, udp: true}
