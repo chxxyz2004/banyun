@@ -2151,9 +2151,9 @@ proxies:
 - {name: 🇺🇸 美国1 - 快乐星球, server: 2x.turn.catscloud.top, port: 22221, type: ss, cipher: aes-128-gcm, password: 455afcaf-6f7a-4561-a865-0bf48cd48ad1, udp: true}
 - {name: 🇺🇸 美国2 - 快乐星球, server: 1.5x.turn.catscloud.top, port: 22221, type: ss, cipher: aes-128-gcm, password: 455afcaf-6f7a-4561-a865-0bf48cd48ad1, udp: true}
 - {name: 🇺🇸 美国3 - 快乐星球, server: 1x.turn.catscloud.top, port: 22221, type: ss, cipher: aes-128-gcm, password: 455afcaf-6f7a-4561-a865-0bf48cd48ad1, udp: true}
-- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
-- {name: 🇱🇦 请登录laomao.biz 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
-- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
+- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, tfo: true, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
+- {name: 🇱🇦 请登录laomao.biz 购买 - 老猫云, server: www.google.com, port: 443, tfo: true, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
+- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, tfo: true, type: ss, cipher: aes-128-gcm, password: a69937c6-e931-45c6-93d8-edda8760dab7, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB, server: gcdddd0005.likeone.lol, port: 51031, type: trojan, password: 3c21713c-5f65-47fb-bcf3-cd2fb0ebbbe1, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB, server: gcdddd0001.likeone.lol, port: 51031, type: trojan, password: 3c21713c-5f65-47fb-bcf3-cd2fb0ebbbe1, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB, server: gcdddd0003.likeone.lol, port: 51031, type: trojan, password: 3c21713c-5f65-47fb-bcf3-cd2fb0ebbbe1, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
